@@ -2,26 +2,26 @@
 
 ## Category: analysis
 
-<a name="#dump_func_info"/>
-
 <details>
   <summary>*dump_func_info*: </summary>
 
-### Source code
+<blockquote>
+
+### dump_func_info
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/analysis/dump_func_info.py">analysis/dump_func_info.py</a>
 
-### Category
+#### Category
 analysis
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_funcs.FUNC_FRAME
 * ida_funcs.FUNC_LUMINA
 * ida_funcs.FUNC_THUNK
@@ -30,32 +30,34 @@ analysis
 * ida_funcs.is_func_tail
 * ida_kernwin.get_screen_ea
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
 
 ## Category: core
 
-<a name="#actions"/>
-
 <details>
   <summary>*actions*: </summary>
 
-### Source code
+<blockquote>
+
+### actions
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/actions.py">core/actions.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_kernwin.AST_DISABLE_FOR_WIDGET
 * ida_kernwin.AST_ENABLE_FOR_WIDGET
 * ida_kernwin.BWN_DISASM
@@ -71,84 +73,90 @@ core
 * ida_kernwin.register_action
 * ida_kernwin.unregister_action
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#add_hotkey"/>
 
 <details>
   <summary>*add_hotkey*: </summary>
 
-### Source code
+<blockquote>
+
+### add_hotkey
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/add_hotkey.py">core/add_hotkey.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_kernwin.add_hotkey
 * ida_kernwin.del_hotkey
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#add_idc_hotkey"/>
 
 <details>
   <summary>*add_idc_hotkey*: </summary>
 
-### Source code
+<blockquote>
+
+### add_idc_hotkey
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/add_idc_hotkey.py">core/add_idc_hotkey.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_expr.compile_idc_text
 * ida_kernwin.add_idc_hotkey
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#auto_instantiate_widget_plugin"/>
 
 <details>
   <summary>*auto_instantiate_widget_plugin*: </summary>
 
-### Source code
+<blockquote>
+
+### auto_instantiate_widget_plugin
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/auto_instantiate_widget_plugin.py">core/auto_instantiate_widget_plugin.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_idaapi.plugin_t
 * ida_kernwin.AST_ENABLE_ALWAYS
 * ida_kernwin.SETMENU_APP
@@ -161,30 +169,32 @@ core
 * ida_kernwin.simplecustviewer_t
 * ida_kernwin.simplecustviewer_t.Create
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#create_structure_programmatically"/>
 
 <details>
   <summary>*create_structure_programmatically*: </summary>
 
-### Source code
+<blockquote>
+
+### create_structure_programmatically
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/create_structure_programmatically.py">core/create_structure_programmatically.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_bytes.FF_BYTE
 * ida_bytes.FF_DATA
 * ida_bytes.FF_DOUBLE
@@ -209,30 +219,32 @@ core
 * idc.del_struc
 * idc.set_member_type
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#custom_cli"/>
 
 <details>
   <summary>*custom_cli*: </summary>
 
-### Source code
+<blockquote>
+
+### custom_cli
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/custom_cli.py">core/custom_cli.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_idaapi.NW_CLOSEIDB
 * ida_idaapi.NW_OPENIDB
 * ida_idaapi.NW_REMOVE
@@ -240,30 +252,32 @@ core
 * ida_idaapi.notify_when
 * ida_kernwin.cli_t
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#custom_data_types_and_formats"/>
 
 <details>
   <summary>*custom_data_types_and_formats*: </summary>
 
-### Source code
+<blockquote>
+
+### custom_data_types_and_formats
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/custom_data_types_and_formats.py">core/custom_data_types_and_formats.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_bytes.data_format_t
 * ida_bytes.data_type_t
 * ida_bytes.find_custom_data_type
@@ -285,30 +299,32 @@ core
 * ida_netnode.netnode
 * ida_struct.is_member_id
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#dump_extra_comments"/>
 
 <details>
   <summary>*dump_extra_comments*: </summary>
 
-### Source code
+<blockquote>
+
+### dump_extra_comments
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/dump_extra_comments.py">core/dump_extra_comments.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_kernwin.AST_DISABLE_FOR_WIDGET
 * ida_kernwin.AST_ENABLE_FOR_WIDGET
 * ida_kernwin.BWN_DISASM
@@ -324,195 +340,209 @@ core
 * ida_lines.get_extra_cmt
 * ida_view
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#dump_flowchart"/>
 
 <details>
   <summary>*dump_flowchart*: </summary>
 
-### Source code
+<blockquote>
+
+### dump_flowchart
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/dump_flowchart.py">core/dump_flowchart.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_funcs.get_func
 * ida_gdl.FlowChart
 * ida_gdl.qflow_chart_t
 * ida_kernwin.get_screen_ea
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#extend_idc"/>
 
 <details>
   <summary>*extend_idc*: </summary>
 
-### Source code
+<blockquote>
+
+### extend_idc
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/extend_idc.py">core/extend_idc.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_expr.VT_LONG
 * ida_expr.add_idc_func
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#idapythonrc"/>
 
 <details>
   <summary>*idapythonrc*: </summary>
 
-### Source code
+<blockquote>
+
+### idapythonrc
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/idapythonrc.py">core/idapythonrc.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
+#### Uses
 
-### Keywords
+#### See also
 
-### Uses
-
-### See also
+</blockquote>
 
   </details>
-
-<a name="#install_user_defined_prefix"/>
 
 <details>
   <summary>*install_user_defined_prefix*: </summary>
 
-### Source code
+<blockquote>
+
+### install_user_defined_prefix
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/install_user_defined_prefix.py">core/install_user_defined_prefix.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_idaapi.PLUGIN_KEEP
 * ida_idaapi.plugin_t
 * ida_lines.SCOLOR_INV
 * ida_lines.user_defined_prefix_t
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#list_imports"/>
 
 <details>
   <summary>*list_imports*: </summary>
 
-### Source code
+<blockquote>
+
+### list_imports
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/list_imports.py">core/list_imports.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_nalt.enum_import_names
 * ida_nalt.get_import_module_name
 * ida_nalt.get_import_module_qty
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#list_patched_bytes"/>
 
 <details>
   <summary>*list_patched_bytes*: </summary>
 
-### Source code
+<blockquote>
+
+### list_patched_bytes
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/list_patched_bytes.py">core/list_patched_bytes.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_bytes.visit_patched_bytes
 * ida_idaapi.BADADDR
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#list_problems"/>
 
 <details>
   <summary>*list_problems*: </summary>
 
-### Source code
+<blockquote>
+
+### list_problems
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/list_problems.py">core/list_problems.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_ida.inf_get_min_ea
 * ida_idaapi.BADADDR
 * ida_problems.PR_ATTN
@@ -534,30 +564,32 @@ core
 * ida_problems.get_problem
 * ida_problems.get_problem_name
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#list_segment_functions"/>
 
 <details>
   <summary>*list_segment_functions*: </summary>
 
-### Source code
+<blockquote>
+
+### list_segment_functions
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/list_segment_functions.py">core/list_segment_functions.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_funcs.get_func
 * ida_funcs.get_func_name
 * ida_funcs.get_next_func
@@ -567,30 +599,32 @@ core
 * ida_xref.get_first_cref_to
 * ida_xref.get_next_cref_to
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#list_segment_functions_using_idautils"/>
 
 <details>
   <summary>*list_segment_functions_using_idautils*: </summary>
 
-### Source code
+<blockquote>
+
+### list_segment_functions_using_idautils
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/list_segment_functions_using_idautils.py">core/list_segment_functions_using_idautils.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_funcs.get_func_name
 * ida_idaapi.BADADDR
 * ida_kernwin.get_screen_ea
@@ -598,30 +632,32 @@ core
 * idautils.CodeRefsTo
 * idautils.Functions
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#list_stkvar_xrefs"/>
 
 <details>
   <summary>*list_stkvar_xrefs*: </summary>
 
-### Source code
+<blockquote>
+
+### list_stkvar_xrefs
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/list_stkvar_xrefs.py">core/list_stkvar_xrefs.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_bytes.get_flags
 * ida_bytes.is_stkvar
 * ida_frame.calc_stkvar_struc_offset
@@ -643,56 +679,60 @@ core
 * ida_ua.decode_insn
 * ida_ua.insn_t
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#list_strings"/>
 
 <details>
   <summary>*list_strings*: </summary>
 
-### Source code
+<blockquote>
+
+### list_strings
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/list_strings.py">core/list_strings.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * idautils.Strings
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#produce_c_file"/>
 
 <details>
   <summary>*produce_c_file*: </summary>
 
-### Source code
+<blockquote>
+
+### produce_c_file
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/produce_c_file.py">core/produce_c_file.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_auto.auto_wait
 * ida_hexrays.VDRUN_MAYSTOP
 * ida_hexrays.VDRUN_NEWFILE
@@ -702,30 +742,32 @@ core
 * ida_loader.get_path
 * ida_pro.qexit
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#produce_lst_file"/>
 
 <details>
   <summary>*produce_lst_file*: </summary>
 
-### Source code
+<blockquote>
+
+### produce_lst_file
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/produce_lst_file.py">core/produce_lst_file.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_auto.auto_wait
 * ida_fpro.qfile_t
 * ida_ida.inf_get_max_ea
@@ -736,87 +778,93 @@ core
 * ida_loader.get_path
 * ida_pro.qexit
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#register_timer"/>
 
 <details>
   <summary>*register_timer*: </summary>
 
-### Source code
+<blockquote>
+
+### register_timer
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/register_timer.py">core/register_timer.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_kernwin.register_timer
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#trigger_actions_programmatically"/>
 
 <details>
   <summary>*trigger_actions_programmatically*: </summary>
 
-### Source code
+<blockquote>
+
+### trigger_actions_programmatically
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/trigger_actions_programmatically.py">core/trigger_actions_programmatically.py</a>
 
-### Category
+#### Category
 core
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_kernwin.ask_yn
 * ida_kernwin.execute_ui_requests
 * ida_kernwin.msg
 * ida_kernwin.process_ui_action
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
 
 ## Category: debugging
 
-<a name="#automatic_steps"/>
-
 <details>
   <summary>*automatic_steps*: </summary>
 
-### Source code
+<blockquote>
+
+### automatic_steps
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/debugging/dbghooks/automatic_steps.py">debugging/dbghooks/automatic_steps.py</a>
 
-### Category
+#### Category
 debugging
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_dbg.DBG_Hooks
 * ida_dbg.get_reg_val
 * ida_dbg.request_exit_process
@@ -828,30 +876,32 @@ debugging
 * ida_lines.generate_disasm_line
 * ida_lines.tag_remove
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#dbg_trace"/>
 
 <details>
   <summary>*dbg_trace*: </summary>
 
-### Source code
+<blockquote>
+
+### dbg_trace
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/debugging/dbghooks/dbg_trace.py">debugging/dbghooks/dbg_trace.py</a>
 
-### Category
+#### Category
 debugging
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * GENDSM_FORCE_CODE
 * GENDSM_REMOVE_TAGS
 * NN_call
@@ -886,30 +936,32 @@ debugging
 * ida_ua.insn_t
 * idc.ARGV
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#registers_context_menu"/>
 
 <details>
   <summary>*registers_context_menu*: </summary>
 
-### Source code
+<blockquote>
+
+### registers_context_menu
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/debugging/misc/registers_context_menu.py">debugging/misc/registers_context_menu.py</a>
 
-### Category
+#### Category
 debugging
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_dbg.get_dbg_reg_info
 * ida_dbg.get_reg_val
 * ida_idd.register_info_t
@@ -927,60 +979,64 @@ debugging
 * ida_ua.dt_qword
 * ida_ua.dt_word
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#show_debug_names"/>
 
 <details>
   <summary>*show_debug_names*: </summary>
 
-### Source code
+<blockquote>
+
+### show_debug_names
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/debugging/show_debug_names.py">debugging/show_debug_names.py</a>
 
-### Category
+#### Category
 debugging
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_dbg.get_process_state
 * ida_dbg.is_debugger_on
 * ida_ida.inf_get_max_ea
 * ida_ida.inf_get_min_ea
 * ida_name.get_debug_names
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#simple_appcall_common"/>
 
 <details>
   <summary>*simple_appcall_common*: </summary>
 
-### Source code
+<blockquote>
+
+### simple_appcall_common
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/debugging/appcall/simple_appcall_common.py">debugging/appcall/simple_appcall_common.py</a>
 
-### Category
+#### Category
 debugging
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_dbg.DBG_Hooks
 * ida_dbg.run_to
 * ida_idaapi.BADADDR
@@ -992,113 +1048,121 @@ debugging
 * ida_name.set_name
 * ida_typeinf.apply_cdecl
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#simple_appcall_linux"/>
 
 <details>
   <summary>*simple_appcall_linux*: </summary>
 
-### Source code
+<blockquote>
+
+### simple_appcall_linux
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/debugging/appcall/simple_appcall_linux.py">debugging/appcall/simple_appcall_linux.py</a>
 
-### Category
+#### Category
 debugging
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
+#### Uses
 
-### Keywords
+#### See also
 
-### Uses
-
-### See also
+</blockquote>
 
   </details>
-
-<a name="#simple_appcall_win"/>
 
 <details>
   <summary>*simple_appcall_win*: </summary>
 
-### Source code
+<blockquote>
+
+### simple_appcall_win
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/debugging/appcall/simple_appcall_win.py">debugging/appcall/simple_appcall_win.py</a>
 
-### Category
+#### Category
 debugging
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_ida.inf_is_64bit
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
 
 ## Category: disassembly
 
-<a name="#colorize_region"/>
-
 <details>
   <summary>*colorize_region*: change background colours</summary>
 
-### Source code
-<a href="https://github.com/idapython/src/blob/master/examples/core/colorize_region.py">core/colorize_region.py</a>
+<blockquote>
 
-### Category
-disassembly
-
-### Summary
+### colorize_region
 change background colours
 
-### Description
+#### Source code
+<a href="https://github.com/idapython/src/blob/master/examples/core/colorize_region.py">core/colorize_region.py</a>
+
+#### Category
+disassembly
+
+#### Description
 This illustrates the setting/retrieval of background colours
 using the IDC wrappers
 
-### Keywords
+#### Keywords
 coloring
 idc
 
-### Uses
+#### Uses
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
 
 ## Category: hexrays
 
-<a name="#decompile_entry_points"/>
-
 <details>
   <summary>*decompile_entry_points*: </summary>
 
-### Source code
+<blockquote>
+
+### decompile_entry_points
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/decompile_entry_points.py">hexrays/decompile_entry_points.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_auto.auto_wait
 * ida_entry.get_entry
 * ida_entry.get_entry_ordinal
@@ -1113,30 +1177,32 @@ hexrays
 * ida_idp.ph.id
 * ida_loader.load_plugin
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds1"/>
 
 <details>
   <summary>*vds1*: </summary>
 
-### Source code
+<blockquote>
+
+### vds1
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds1.py">hexrays/vds1.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_funcs.get_func
 * ida_hexrays.decompile
 * ida_hexrays.get_hexrays_version
@@ -1144,30 +1210,32 @@ hexrays
 * ida_kernwin.get_screen_ea
 * ida_lines.tag_remove
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds10"/>
 
 <details>
   <summary>*vds10*: </summary>
 
-### Source code
+<blockquote>
+
+### vds10
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds10.py">hexrays/vds10.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_bytes.get_cmt
 * ida_hexrays.init_hexrays_plugin
 * ida_hexrays.mop_str
@@ -1178,30 +1246,32 @@ hexrays
 * ida_typeinf.STI_PCCHAR
 * ida_typeinf.tinfo_t.get_stock
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds11"/>
 
 <details>
   <summary>*vds11*: </summary>
 
-### Source code
+<blockquote>
+
+### vds11
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds11.py">hexrays/vds11.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_hexrays.getf_reginsn
 * ida_hexrays.init_hexrays_plugin
 * ida_hexrays.m_goto
@@ -1210,30 +1280,32 @@ hexrays
 * ida_idaapi.PLUGIN_KEEP
 * ida_idaapi.plugin_t
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds12"/>
 
 <details>
   <summary>*vds12*: </summary>
 
-### Source code
+<blockquote>
+
+### vds12
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds12.py">hexrays/vds12.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_bytes.get_flags
 * ida_bytes.is_code
 * ida_funcs.get_func
@@ -1264,30 +1336,32 @@ hexrays
 * ida_lines.generate_disasm_line
 * ida_pro.eavec_t
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds13"/>
 
 <details>
   <summary>*vds13*: </summary>
 
-### Source code
+<blockquote>
+
+### vds13
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds13.py">hexrays/vds13.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_bytes.get_flags
 * ida_bytes.is_code
 * ida_hexrays.DECOMP_WARNINGS
@@ -1300,30 +1374,32 @@ hexrays
 * ida_kernwin.warning
 * ida_range.range_t
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds17"/>
 
 <details>
   <summary>*vds17*: </summary>
 
-### Source code
+<blockquote>
+
+### vds17
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds17.py">hexrays/vds17.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_hexrays.USE_KEYBOARD
 * ida_hexrays.cot_add
 * ida_hexrays.cot_cast
@@ -1355,30 +1431,32 @@ hexrays
 * ida_typeinf.print_tinfo
 * ida_typeinf.remove_pointer
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds19"/>
 
 <details>
   <summary>*vds19*: </summary>
 
-### Source code
+<blockquote>
+
+### vds19
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds19.py">hexrays/vds19.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_hexrays.init_hexrays_plugin
 * ida_hexrays.m_bnot
 * ida_hexrays.m_mov
@@ -1390,30 +1468,32 @@ hexrays
 * ida_idaapi.PLUGIN_KEEP
 * ida_idaapi.plugin_t
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds3"/>
 
 <details>
   <summary>*vds3*: </summary>
 
-### Source code
+<blockquote>
+
+### vds3
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds3.py">hexrays/vds3.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_hexrays.CMAT_FINAL
 * ida_hexrays.CV_FAST
 * ida_hexrays.CV_INSNS
@@ -1440,30 +1520,32 @@ hexrays
 * ida_kernwin.register_action
 * ida_netnode.netnode
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds4"/>
 
 <details>
   <summary>*vds4*: </summary>
 
-### Source code
+<blockquote>
+
+### vds4
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds4.py">hexrays/vds4.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_bytes.get_radix
 * ida_hexrays.CIT_COLLAPSED
 * ida_hexrays.decompile
@@ -1480,30 +1562,32 @@ hexrays
 * ida_hexrays.user_numforms_free
 * ida_kernwin.get_screen_ea
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds5"/>
 
 <details>
   <summary>*vds5*: </summary>
 
-### Source code
+<blockquote>
+
+### vds5
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds5.py">hexrays/vds5.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_gdl.display_gdl
 * ida_hexrays.Hexrays_Hooks
 * ida_hexrays.USE_KEYBOARD
@@ -1535,30 +1619,32 @@ hexrays
 * ida_lines.tag_remove
 * ida_pro.str2user
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds6"/>
 
 <details>
   <summary>*vds6*: </summary>
 
-### Source code
+<blockquote>
+
+### vds6
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds6.py">hexrays/vds6.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_hexrays.Hexrays_Hooks
 * ida_hexrays.init_hexrays_plugin
 * ida_idaapi.PLUGIN_HIDE
@@ -1567,30 +1653,32 @@ hexrays
 * ida_lines.tag_advance
 * ida_lines.tag_skipcodes
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds7"/>
 
 <details>
   <summary>*vds7*: </summary>
 
-### Source code
+<blockquote>
+
+### vds7
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds7.py">hexrays/vds7.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_hexrays.CMAT_BUILT
 * ida_hexrays.CV_FAST
 * ida_hexrays.Hexrays_Hooks
@@ -1598,30 +1686,32 @@ hexrays
 * ida_hexrays.ctree_visitor_t
 * ida_hexrays.init_hexrays_plugin
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds8"/>
 
 <details>
   <summary>*vds8*: </summary>
 
-### Source code
+<blockquote>
+
+### vds8
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds8.py">hexrays/vds8.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_allins.ARM_svc
 * ida_hexrays.get_widget_vdui
 * ida_hexrays.init_hexrays_plugin
@@ -1637,30 +1727,32 @@ hexrays
 * ida_kernwin.get_widget_type
 * ida_kernwin.register_action
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds_create_hint"/>
 
 <details>
   <summary>*vds_create_hint*: </summary>
 
-### Source code
+<blockquote>
+
+### vds_create_hint
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds_create_hint.py">hexrays/vds_create_hint.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_hexrays.Hexrays_Hooks
 * ida_hexrays.USE_MOUSE
 * ida_hexrays.VDI_EXPR
@@ -1668,86 +1760,92 @@ hexrays
 * ida_hexrays.cit_if
 * ida_hexrays.cot_call
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds_hooks"/>
 
 <details>
   <summary>*vds_hooks*: </summary>
 
-### Source code
+<blockquote>
+
+### vds_hooks
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds_hooks.py">hexrays/vds_hooks.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_hexrays.Hexrays_Hooks
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds_modify_user_lvars"/>
 
 <details>
   <summary>*vds_modify_user_lvars*: </summary>
 
-### Source code
+<blockquote>
+
+### vds_modify_user_lvars
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds_modify_user_lvars.py">hexrays/vds_modify_user_lvars.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_hexrays.modify_user_lvars
 * ida_hexrays.user_lvar_modifier_t
 * ida_typeinf.parse_decl
 * ida_typeinf.tinfo_t
 * idc.here
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#vds_xrefs"/>
 
 <details>
   <summary>*vds_xrefs*: </summary>
 
-### Source code
+<blockquote>
+
+### vds_xrefs
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds_xrefs.py">hexrays/vds_xrefs.py</a>
 
-### Category
+#### Category
 hexrays
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_funcs.get_func_name
 * ida_hexrays.Hexrays_Hooks
 * ida_hexrays.USE_KEYBOARD
@@ -1780,32 +1878,34 @@ hexrays
 * idautils.Functions
 * idautils.XrefsTo
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
 
 ## Category: idbhooks
 
-<a name="#operand_changed"/>
-
 <details>
   <summary>*operand_changed*: </summary>
 
-### Source code
+<blockquote>
+
+### operand_changed
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/idbhooks/operand_changed.py">idbhooks/operand_changed.py</a>
 
-### Category
+#### Category
 idbhooks
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_bytes.ALOPT_IGNCLT
 * ida_bytes.ALOPT_IGNHEADS
 * ida_bytes.get_flags
@@ -1829,25 +1929,27 @@ idbhooks
 * ida_nalt.opinfo_t
 * ida_struct.get_struc_name
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#replay_prototypes_changes"/>
 
 <details>
   <summary>*replay_prototypes_changes*: Record and replay changes in function prototypes</summary>
 
-### Source code
-<a href="https://github.com/idapython/src/blob/master/examples/idbhooks/replay_prototypes_changes.py">idbhooks/replay_prototypes_changes.py</a>
+<blockquote>
 
-### Category
-idbhooks
-
-### Summary
+### replay_prototypes_changes
 Record and replay changes in function prototypes
 
-### Description
+#### Source code
+<a href="https://github.com/idapython/src/blob/master/examples/idbhooks/replay_prototypes_changes.py">idbhooks/replay_prototypes_changes.py</a>
+
+#### Category
+idbhooks
+
+#### Description
 This is a sample script, that will record (in memory) all changes in
 functions prototypes, in order to re-apply them later.
 
@@ -1862,9 +1964,9 @@ To use this script:
 Note: 'ti_changed' is also called for changes to the function
 frames, but we'll only record function prototypes changes.
 
-### Keywords
+#### Keywords
 
-### Uses
+#### Uses
 * ida_funcs.get_func
 * ida_idp.IDB_Hooks
 * ida_typeinf.PRTYPE_1LINE
@@ -1873,32 +1975,34 @@ frames, but we'll only record function prototypes changes.
 * ida_typeinf.get_idati
 * ida_typeinf.tinfo_t
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
 
 ## Category: idphooks
 
-<a name="#ana_emu_out"/>
-
 <details>
   <summary>*ana_emu_out*: </summary>
 
-### Source code
+<blockquote>
+
+### ana_emu_out
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/idphooks/ana_emu_out.py">idphooks/ana_emu_out.py</a>
 
-### Category
+#### Category
 idphooks
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_bytes.get_wide_dword
 * ida_bytes.get_wide_word
 * ida_idp.CUSTOM_INSN_ITYPE
@@ -1908,88 +2012,94 @@ idphooks
 * ida_idp.str2reg
 * ida_segregs.get_sreg
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#assemble"/>
 
 <details>
   <summary>*assemble*: </summary>
 
-### Source code
+<blockquote>
+
+### assemble
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/idphooks/assemble.py">idphooks/assemble.py</a>
 
-### Category
+#### Category
 idphooks
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_idp.IDP_Hooks
 * idautils.DecodeInstruction
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
 
 ## Category: pyqt
 
-<a name="#inject_command"/>
-
 <details>
   <summary>*inject_command*: </summary>
 
-### Source code
+<blockquote>
+
+### inject_command
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/pyqt/inject_command.py">pyqt/inject_command.py</a>
 
-### Category
+#### Category
 pyqt
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_kernwin.PluginForm.TWidgetToPyQtWidget
 * ida_kernwin.disabled_script_timeout_t
 * ida_kernwin.find_widget
 * ida_kernwin.process_ui_action
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#paint_over_navbar"/>
 
 <details>
   <summary>*paint_over_navbar*: </summary>
 
-### Source code
+<blockquote>
+
+### paint_over_navbar
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/pyqt/paint_over_navbar.py">pyqt/paint_over_navbar.py</a>
 
-### Category
+#### Category
 pyqt
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_kernwin.PluginForm.FormToPyQtWidget
 * ida_kernwin.get_navband_pixel
 * ida_kernwin.open_navband_window
@@ -1997,58 +2107,62 @@ pyqt
 * ida_segment.getnseg
 * idc.here
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#populate_pluginform_with_pyqt_widgets"/>
 
 <details>
   <summary>*populate_pluginform_with_pyqt_widgets*: </summary>
 
-### Source code
+<blockquote>
+
+### populate_pluginform_with_pyqt_widgets
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/pyqt/populate_pluginform_with_pyqt_widgets.py">pyqt/populate_pluginform_with_pyqt_widgets.py</a>
 
-### Category
+#### Category
 pyqt
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_kernwin.PluginForm
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
 
 ## Category: uihooks
 
-<a name="#lines_rendering"/>
-
 <details>
   <summary>*lines_rendering*: </summary>
 
-### Source code
+<blockquote>
+
+### lines_rendering
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/uihooks/lines_rendering.py">uihooks/lines_rendering.py</a>
 
-### Category
+#### Category
 uihooks
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_bytes.next_head
 * ida_idaapi.BADADDR
 * ida_kernwin.CK_EXTRA1
@@ -2075,114 +2189,122 @@ uihooks
 * ida_kernwin.line_rendering_output_entry_t
 * ida_kernwin.refresh_idaview_anyway
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#log_misc_events"/>
 
 <details>
   <summary>*log_misc_events*: </summary>
 
-### Source code
+<blockquote>
+
+### log_misc_events
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/uihooks/log_misc_events.py">uihooks/log_misc_events.py</a>
 
-### Category
+#### Category
 uihooks
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_kernwin.UI_Hooks
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#prevent_jump"/>
 
 <details>
   <summary>*prevent_jump*: </summary>
 
-### Source code
+<blockquote>
+
+### prevent_jump
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/uihooks/prevent_jump.py">uihooks/prevent_jump.py</a>
 
-### Category
+#### Category
 uihooks
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_kernwin.UI_Hooks
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
 
 ## Category: widgets
 
-<a name="#askusingform"/>
-
 <details>
   <summary>*askusingform*: </summary>
 
-### Source code
+<blockquote>
+
+### askusingform
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/forms/askusingform.py">widgets/forms/askusingform.py</a>
 
-### Category
+#### Category
 widgets
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_kernwin.Choose
 * ida_kernwin.Choose.CH_MULTI
 * ida_kernwin.Form
 * ida_kernwin.PluginForm.FORM_TAB
 * ida_kernwin.ask_str
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#choose"/>
 
 <details>
   <summary>*choose*: </summary>
 
-### Source code
+<blockquote>
+
+### choose
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/tabular_views/custom/choose.py">widgets/tabular_views/custom/choose.py</a>
 
-### Category
+#### Category
 widgets
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * Choose
 * Choose.ALL_CHANGED
 * Choose.CH_CAN_DEL
@@ -2200,60 +2322,64 @@ widgets
 * ida_kernwin.register_action
 * ida_kernwin.unregister_action
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#choose_multi"/>
 
 <details>
   <summary>*choose_multi*: choose multi</summary>
 
-### Source code
-<a href="https://github.com/idapython/src/blob/master/examples/widgets/tabular_views/custom/choose_multi.py">widgets/tabular_views/custom/choose_multi.py</a>
+<blockquote>
 
-### Category
-widgets
-
-### Summary
+### choose_multi
 choose multi
 
-### Description
+#### Source code
+<a href="https://github.com/idapython/src/blob/master/examples/widgets/tabular_views/custom/choose_multi.py">widgets/tabular_views/custom/choose_multi.py</a>
+
+#### Category
+widgets
+
+#### Description
 
 
-### Keywords
+#### Keywords
 
-### Uses
+#### Uses
 * Choose
 * Choose.ALL_CHANGED
 * Choose.CHCOL_HEX
 * Choose.CH_MULTI
 * Choose.NOTHING_CHANGED
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#custom_graph_with_actions"/>
 
 <details>
   <summary>*custom_graph_with_actions*: </summary>
 
-### Source code
+<blockquote>
+
+### custom_graph_with_actions
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/graphs/custom_graph_with_actions.py">widgets/graphs/custom_graph_with_actions.py</a>
 
-### Category
+#### Category
 widgets
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_funcs.get_func
 * ida_funcs.get_func_name
 * ida_graph.GraphViewer
@@ -2273,30 +2399,32 @@ widgets
 * idautils.FuncItems
 * idautils.XrefsFrom
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#custom_viewer"/>
 
 <details>
   <summary>*custom_viewer*: </summary>
 
-### Source code
+<blockquote>
+
+### custom_viewer
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/listings/custom_viewer.py">widgets/listings/custom_viewer.py</a>
 
-### Category
+#### Category
 widgets
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_kernwin.AST_ENABLE_ALWAYS
 * ida_kernwin.action_desc_t
 * ida_kernwin.action_handler_t
@@ -2314,30 +2442,32 @@ widgets
 * ida_lines.SCOLOR_PREFIX
 * ida_lines.SCOLOR_VOIDOP
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#func_chooser"/>
 
 <details>
   <summary>*func_chooser*: </summary>
 
-### Source code
+<blockquote>
+
+### func_chooser
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/tabular_views/custom/func_chooser.py">widgets/tabular_views/custom/func_chooser.py</a>
 
-### Category
+#### Category
 widgets
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * Choose
 * Choose.ALL_CHANGED
 * Choose.CHCOL_HEX
@@ -2347,30 +2477,32 @@ widgets
 * idc.del_func
 * idc.jumpto
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#save_and_restore_listing_pos"/>
 
 <details>
   <summary>*save_and_restore_listing_pos*: </summary>
 
-### Source code
+<blockquote>
+
+### save_and_restore_listing_pos
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/listings/save_and_restore_listing_pos.py">widgets/listings/save_and_restore_listing_pos.py</a>
 
-### Category
+#### Category
 widgets
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_kernwin.AST_DISABLE_FOR_WIDGET
 * ida_kernwin.AST_ENABLE_FOR_WIDGET
 * ida_kernwin.BWN_CUSTVIEW
@@ -2387,30 +2519,32 @@ widgets
 * ida_kernwin.unregister_action
 * ida_moves.lochist_entry_t
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#show_and_hide_waitbox"/>
 
 <details>
   <summary>*show_and_hide_waitbox*: </summary>
 
-### Source code
+<blockquote>
+
+### show_and_hide_waitbox
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/waitbox/show_and_hide_waitbox.py">widgets/waitbox/show_and_hide_waitbox.py</a>
 
-### Category
+#### Category
 widgets
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_funcs.get_func
 * ida_hexrays.DecompilationFailure
 * ida_hexrays.decompile
@@ -2420,30 +2554,32 @@ widgets
 * ida_kernwin.user_cancelled
 * idautils.Functions
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#show_selected_strings"/>
 
 <details>
   <summary>*show_selected_strings*: </summary>
 
-### Source code
+<blockquote>
+
+### show_selected_strings
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/tabular_views/strings_window/show_selected_strings.py">widgets/tabular_views/strings_window/show_selected_strings.py</a>
 
-### Category
+#### Category
 widgets
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_bytes.get_strlit_contents
 * ida_idaapi.BADADDR
 * ida_kernwin.AST_DISABLE_FOR_WIDGET
@@ -2460,30 +2596,32 @@ widgets
 * ida_strlist.get_strlist_item
 * ida_strlist.string_info_t
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#sync_two_graphs"/>
 
 <details>
   <summary>*sync_two_graphs*: </summary>
 
-### Source code
+<blockquote>
+
+### sync_two_graphs
+
+
+#### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/graphs/sync_two_graphs.py">widgets/graphs/sync_two_graphs.py</a>
 
-### Category
+#### Category
 widgets
 
-### Summary
+#### Description
 
 
-### Description
+#### Keywords
 
-
-### Keywords
-
-### Uses
+#### Uses
 * ida_graph.GLICTL_CENTER
 * ida_graph.viewer_fit_window
 * ida_graph.viewer_get_gli
@@ -2501,33 +2639,35 @@ widgets
 * ida_kernwin.set_view_renderer_type
 * ida_moves.graph_location_info_t
 
-### See also
+#### See also
+
+</blockquote>
 
   </details>
-
-<a name="#wrap_idaview"/>
 
 <details>
   <summary>*wrap_idaview*: manipulate IDAView and graph</summary>
 
-### Source code
-<a href="https://github.com/idapython/src/blob/master/examples/widgets/idaview/wrap_idaview.py">widgets/idaview/wrap_idaview.py</a>
+<blockquote>
 
-### Category
-widgets
-
-### Summary
+### wrap_idaview
 manipulate IDAView and graph
 
-### Description
+#### Source code
+<a href="https://github.com/idapython/src/blob/master/examples/widgets/idaview/wrap_idaview.py">widgets/idaview/wrap_idaview.py</a>
+
+#### Category
+widgets
+
+#### Description
 This is an example illustrating how to manipulate an existing IDA-provided
 view (and thus its graph), in Python.
 
-### Keywords
+#### Keywords
 idaview
 graph
 
-### Uses
+#### Uses
 * ida_graph.NIF_BG_COLOR
 * ida_graph.NIF_FRAME_COLOR
 * ida_graph.node_info_t
@@ -2537,9 +2677,11 @@ graph
 * ida_kernwin.TCCRT_GRAPH
 * ida_kernwin.execute_sync
 
-### See also
+#### See also
 * [custom_graph_with_actions](#custom_graph_with_actions)
 * [sync_two_graphs](#sync_two_graphs)
+
+</blockquote>
 
   </details>
 
