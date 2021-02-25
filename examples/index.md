@@ -3,7 +3,8 @@
 ## Category: analysis
 
 <a name="dump_func_info"/>
-<b>dump_func_info</b> <details><summary></summary>
+<details>
+  <summary>dump_func_info: </summary>
 
 <blockquote>
 
@@ -36,7 +37,8 @@ analysis
 ## Category: core
 
 <a name="actions"/>
-<b>actions</b> <details><summary></summary>
+<details>
+  <summary>actions: </summary>
 
 <blockquote>
 
@@ -74,7 +76,8 @@ core
   </details>
 
 <a name="add_hotkey"/>
-<b>add_hotkey</b> <details><summary></summary>
+<details>
+  <summary>add_hotkey: </summary>
 
 <blockquote>
 
@@ -100,7 +103,8 @@ core
   </details>
 
 <a name="add_idc_hotkey"/>
-<b>add_idc_hotkey</b> <details><summary></summary>
+<details>
+  <summary>add_idc_hotkey: </summary>
 
 <blockquote>
 
@@ -126,7 +130,8 @@ core
   </details>
 
 <a name="auto_instantiate_widget_plugin"/>
-<b>auto_instantiate_widget_plugin</b> <details><summary></summary>
+<details>
+  <summary>auto_instantiate_widget_plugin: </summary>
 
 <blockquote>
 
@@ -161,7 +166,8 @@ core
   </details>
 
 <a name="create_structure_programmatically"/>
-<b>create_structure_programmatically</b> <details><summary></summary>
+<details>
+  <summary>create_structure_programmatically: </summary>
 
 <blockquote>
 
@@ -208,7 +214,8 @@ core
   </details>
 
 <a name="custom_cli"/>
-<b>custom_cli</b> <details><summary></summary>
+<details>
+  <summary>custom_cli: </summary>
 
 <blockquote>
 
@@ -238,7 +245,8 @@ core
   </details>
 
 <a name="custom_data_types_and_formats"/>
-<b>custom_data_types_and_formats</b> <details><summary></summary>
+<details>
+  <summary>custom_data_types_and_formats: </summary>
 
 <blockquote>
 
@@ -282,7 +290,8 @@ core
   </details>
 
 <a name="dump_extra_comments"/>
-<b>dump_extra_comments</b> <details><summary></summary>
+<details>
+  <summary>dump_extra_comments: </summary>
 
 <blockquote>
 
@@ -320,7 +329,8 @@ core
   </details>
 
 <a name="dump_flowchart"/>
-<b>dump_flowchart</b> <details><summary></summary>
+<details>
+  <summary>dump_flowchart: </summary>
 
 <blockquote>
 
@@ -348,7 +358,8 @@ core
   </details>
 
 <a name="extend_idc"/>
-<b>extend_idc</b> <details><summary></summary>
+<details>
+  <summary>extend_idc: </summary>
 
 <blockquote>
 
@@ -374,7 +385,8 @@ core
   </details>
 
 <a name="idapythonrc"/>
-<b>idapythonrc</b> <details><summary></summary>
+<details>
+  <summary>idapythonrc: </summary>
 
 <blockquote>
 
@@ -398,7 +410,8 @@ core
   </details>
 
 <a name="install_user_defined_prefix"/>
-<b>install_user_defined_prefix</b> <details><summary></summary>
+<details>
+  <summary>install_user_defined_prefix: </summary>
 
 <blockquote>
 
@@ -426,7 +439,8 @@ core
   </details>
 
 <a name="list_imports"/>
-<b>list_imports</b> <details><summary></summary>
+<details>
+  <summary>list_imports: </summary>
 
 <blockquote>
 
@@ -453,7 +467,8 @@ core
   </details>
 
 <a name="list_patched_bytes"/>
-<b>list_patched_bytes</b> <details><summary></summary>
+<details>
+  <summary>list_patched_bytes: </summary>
 
 <blockquote>
 
@@ -479,7 +494,8 @@ core
   </details>
 
 <a name="list_problems"/>
-<b>list_problems</b> <details><summary></summary>
+<details>
+  <summary>list_problems: </summary>
 
 <blockquote>
 
@@ -523,7 +539,8 @@ core
   </details>
 
 <a name="list_segment_functions"/>
-<b>list_segment_functions</b> <details><summary></summary>
+<details>
+  <summary>list_segment_functions: </summary>
 
 <blockquote>
 
@@ -555,7 +572,8 @@ core
   </details>
 
 <a name="list_segment_functions_using_idautils"/>
-<b>list_segment_functions_using_idautils</b> <details><summary></summary>
+<details>
+  <summary>list_segment_functions_using_idautils: </summary>
 
 <blockquote>
 
@@ -585,7 +603,8 @@ core
   </details>
 
 <a name="list_stkvar_xrefs"/>
-<b>list_stkvar_xrefs</b> <details><summary></summary>
+<details>
+  <summary>list_stkvar_xrefs: </summary>
 
 <blockquote>
 
@@ -629,7 +648,8 @@ core
   </details>
 
 <a name="list_strings"/>
-<b>list_strings</b> <details><summary></summary>
+<details>
+  <summary>list_strings: </summary>
 
 <blockquote>
 
@@ -654,7 +674,8 @@ core
   </details>
 
 <a name="produce_c_file"/>
-<b>produce_c_file</b> <details><summary></summary>
+<details>
+  <summary>produce_c_file: </summary>
 
 <blockquote>
 
@@ -686,7 +707,8 @@ core
   </details>
 
 <a name="produce_lst_file"/>
-<b>produce_lst_file</b> <details><summary></summary>
+<details>
+  <summary>produce_lst_file: </summary>
 
 <blockquote>
 
@@ -719,7 +741,8 @@ core
   </details>
 
 <a name="register_timer"/>
-<b>register_timer</b> <details><summary></summary>
+<details>
+  <summary>register_timer: </summary>
 
 <blockquote>
 
@@ -744,7 +767,8 @@ core
   </details>
 
 <a name="trigger_actions_programmatically"/>
-<b>trigger_actions_programmatically</b> <details><summary></summary>
+<details>
+  <summary>trigger_actions_programmatically: </summary>
 
 <blockquote>
 
@@ -774,7 +798,8 @@ core
 ## Category: debugging
 
 <a name="automatic_steps"/>
-<b>automatic_steps</b> <details><summary></summary>
+<details>
+  <summary>automatic_steps: </summary>
 
 <blockquote>
 
@@ -808,7 +833,8 @@ debugging
   </details>
 
 <a name="dbg_trace"/>
-<b>dbg_trace</b> <details><summary></summary>
+<details>
+  <summary>dbg_trace: </summary>
 
 <blockquote>
 
@@ -865,7 +891,8 @@ debugging
   </details>
 
 <a name="registers_context_menu"/>
-<b>registers_context_menu</b> <details><summary></summary>
+<details>
+  <summary>registers_context_menu: </summary>
 
 <blockquote>
 
@@ -905,7 +932,8 @@ debugging
   </details>
 
 <a name="show_debug_names"/>
-<b>show_debug_names</b> <details><summary></summary>
+<details>
+  <summary>show_debug_names: </summary>
 
 <blockquote>
 
@@ -934,7 +962,8 @@ debugging
   </details>
 
 <a name="simple_appcall_common"/>
-<b>simple_appcall_common</b> <details><summary></summary>
+<details>
+  <summary>simple_appcall_common: </summary>
 
 <blockquote>
 
@@ -968,7 +997,8 @@ debugging
   </details>
 
 <a name="simple_appcall_linux"/>
-<b>simple_appcall_linux</b> <details><summary></summary>
+<details>
+  <summary>simple_appcall_linux: </summary>
 
 <blockquote>
 
@@ -992,7 +1022,8 @@ debugging
   </details>
 
 <a name="simple_appcall_win"/>
-<b>simple_appcall_win</b> <details><summary></summary>
+<details>
+  <summary>simple_appcall_win: </summary>
 
 <blockquote>
 
@@ -1019,7 +1050,8 @@ debugging
 ## Category: disassembly
 
 <a name="colorize_region"/>
-<b>colorize_region</b> <details><summary>change background colours</summary>
+<details>
+  <summary>colorize_region: change background colours</summary>
 
 <blockquote>
 
@@ -1048,7 +1080,8 @@ idc
 ## Category: hexrays
 
 <a name="decompile_entry_points"/>
-<b>decompile_entry_points</b> <details><summary></summary>
+<details>
+  <summary>decompile_entry_points: </summary>
 
 <blockquote>
 
@@ -1085,7 +1118,8 @@ hexrays
   </details>
 
 <a name="vds1"/>
-<b>vds1</b> <details><summary></summary>
+<details>
+  <summary>vds1: </summary>
 
 <blockquote>
 
@@ -1115,7 +1149,8 @@ hexrays
   </details>
 
 <a name="vds10"/>
-<b>vds10</b> <details><summary></summary>
+<details>
+  <summary>vds10: </summary>
 
 <blockquote>
 
@@ -1148,7 +1183,8 @@ hexrays
   </details>
 
 <a name="vds11"/>
-<b>vds11</b> <details><summary></summary>
+<details>
+  <summary>vds11: </summary>
 
 <blockquote>
 
@@ -1179,7 +1215,8 @@ hexrays
   </details>
 
 <a name="vds12"/>
-<b>vds12</b> <details><summary></summary>
+<details>
+  <summary>vds12: </summary>
 
 <blockquote>
 
@@ -1232,7 +1269,8 @@ hexrays
   </details>
 
 <a name="vds13"/>
-<b>vds13</b> <details><summary></summary>
+<details>
+  <summary>vds13: </summary>
 
 <blockquote>
 
@@ -1267,7 +1305,8 @@ hexrays
   </details>
 
 <a name="vds17"/>
-<b>vds17</b> <details><summary></summary>
+<details>
+  <summary>vds17: </summary>
 
 <blockquote>
 
@@ -1321,7 +1360,8 @@ hexrays
   </details>
 
 <a name="vds19"/>
-<b>vds19</b> <details><summary></summary>
+<details>
+  <summary>vds19: </summary>
 
 <blockquote>
 
@@ -1355,7 +1395,8 @@ hexrays
   </details>
 
 <a name="vds3"/>
-<b>vds3</b> <details><summary></summary>
+<details>
+  <summary>vds3: </summary>
 
 <blockquote>
 
@@ -1404,7 +1445,8 @@ hexrays
   </details>
 
 <a name="vds4"/>
-<b>vds4</b> <details><summary></summary>
+<details>
+  <summary>vds4: </summary>
 
 <blockquote>
 
@@ -1443,7 +1485,8 @@ hexrays
   </details>
 
 <a name="vds5"/>
-<b>vds5</b> <details><summary></summary>
+<details>
+  <summary>vds5: </summary>
 
 <blockquote>
 
@@ -1497,7 +1540,8 @@ hexrays
   </details>
 
 <a name="vds6"/>
-<b>vds6</b> <details><summary></summary>
+<details>
+  <summary>vds6: </summary>
 
 <blockquote>
 
@@ -1528,7 +1572,8 @@ hexrays
   </details>
 
 <a name="vds7"/>
-<b>vds7</b> <details><summary></summary>
+<details>
+  <summary>vds7: </summary>
 
 <blockquote>
 
@@ -1558,7 +1603,8 @@ hexrays
   </details>
 
 <a name="vds8"/>
-<b>vds8</b> <details><summary></summary>
+<details>
+  <summary>vds8: </summary>
 
 <blockquote>
 
@@ -1596,7 +1642,8 @@ hexrays
   </details>
 
 <a name="vds_create_hint"/>
-<b>vds_create_hint</b> <details><summary></summary>
+<details>
+  <summary>vds_create_hint: </summary>
 
 <blockquote>
 
@@ -1626,7 +1673,8 @@ hexrays
   </details>
 
 <a name="vds_hooks"/>
-<b>vds_hooks</b> <details><summary></summary>
+<details>
+  <summary>vds_hooks: </summary>
 
 <blockquote>
 
@@ -1651,7 +1699,8 @@ hexrays
   </details>
 
 <a name="vds_modify_user_lvars"/>
-<b>vds_modify_user_lvars</b> <details><summary></summary>
+<details>
+  <summary>vds_modify_user_lvars: </summary>
 
 <blockquote>
 
@@ -1680,7 +1729,8 @@ hexrays
   </details>
 
 <a name="vds_xrefs"/>
-<b>vds_xrefs</b> <details><summary></summary>
+<details>
+  <summary>vds_xrefs: </summary>
 
 <blockquote>
 
@@ -1737,7 +1787,8 @@ hexrays
 ## Category: idbhooks
 
 <a name="operand_changed"/>
-<b>operand_changed</b> <details><summary></summary>
+<details>
+  <summary>operand_changed: </summary>
 
 <blockquote>
 
@@ -1783,7 +1834,8 @@ idbhooks
   </details>
 
 <a name="replay_prototypes_changes"/>
-<b>replay_prototypes_changes</b> <details><summary>Record and replay changes in function prototypes</summary>
+<details>
+  <summary>replay_prototypes_changes: Record and replay changes in function prototypes</summary>
 
 <blockquote>
 
@@ -1828,7 +1880,8 @@ frames, but we'll only record function prototypes changes.
 ## Category: idphooks
 
 <a name="ana_emu_out"/>
-<b>ana_emu_out</b> <details><summary></summary>
+<details>
+  <summary>ana_emu_out: </summary>
 
 <blockquote>
 
@@ -1860,7 +1913,8 @@ idphooks
   </details>
 
 <a name="assemble"/>
-<b>assemble</b> <details><summary></summary>
+<details>
+  <summary>assemble: </summary>
 
 <blockquote>
 
@@ -1888,7 +1942,8 @@ idphooks
 ## Category: pyqt
 
 <a name="inject_command"/>
-<b>inject_command</b> <details><summary></summary>
+<details>
+  <summary>inject_command: </summary>
 
 <blockquote>
 
@@ -1916,7 +1971,8 @@ pyqt
   </details>
 
 <a name="paint_over_navbar"/>
-<b>paint_over_navbar</b> <details><summary></summary>
+<details>
+  <summary>paint_over_navbar: </summary>
 
 <blockquote>
 
@@ -1946,7 +2002,8 @@ pyqt
   </details>
 
 <a name="populate_pluginform_with_pyqt_widgets"/>
-<b>populate_pluginform_with_pyqt_widgets</b> <details><summary></summary>
+<details>
+  <summary>populate_pluginform_with_pyqt_widgets: </summary>
 
 <blockquote>
 
@@ -1973,7 +2030,8 @@ pyqt
 ## Category: uihooks
 
 <a name="lines_rendering"/>
-<b>lines_rendering</b> <details><summary></summary>
+<details>
+  <summary>lines_rendering: </summary>
 
 <blockquote>
 
@@ -2022,7 +2080,8 @@ uihooks
   </details>
 
 <a name="log_misc_events"/>
-<b>log_misc_events</b> <details><summary></summary>
+<details>
+  <summary>log_misc_events: </summary>
 
 <blockquote>
 
@@ -2047,7 +2106,8 @@ uihooks
   </details>
 
 <a name="prevent_jump"/>
-<b>prevent_jump</b> <details><summary></summary>
+<details>
+  <summary>prevent_jump: </summary>
 
 <blockquote>
 
@@ -2074,7 +2134,8 @@ uihooks
 ## Category: widgets
 
 <a name="askusingform"/>
-<b>askusingform</b> <details><summary></summary>
+<details>
+  <summary>askusingform: </summary>
 
 <blockquote>
 
@@ -2103,7 +2164,8 @@ widgets
   </details>
 
 <a name="choose"/>
-<b>choose</b> <details><summary></summary>
+<details>
+  <summary>choose: </summary>
 
 <blockquote>
 
@@ -2143,7 +2205,8 @@ widgets
   </details>
 
 <a name="choose_multi"/>
-<b>choose_multi</b> <details><summary>choose multi</summary>
+<details>
+  <summary>choose_multi: choose multi</summary>
 
 <blockquote>
 
@@ -2172,7 +2235,8 @@ widgets
   </details>
 
 <a name="custom_graph_with_actions"/>
-<b>custom_graph_with_actions</b> <details><summary></summary>
+<details>
+  <summary>custom_graph_with_actions: </summary>
 
 <blockquote>
 
@@ -2214,7 +2278,8 @@ widgets
   </details>
 
 <a name="custom_viewer"/>
-<b>custom_viewer</b> <details><summary></summary>
+<details>
+  <summary>custom_viewer: </summary>
 
 <blockquote>
 
@@ -2254,7 +2319,8 @@ widgets
   </details>
 
 <a name="func_chooser"/>
-<b>func_chooser</b> <details><summary></summary>
+<details>
+  <summary>func_chooser: </summary>
 
 <blockquote>
 
@@ -2286,7 +2352,8 @@ widgets
   </details>
 
 <a name="save_and_restore_listing_pos"/>
-<b>save_and_restore_listing_pos</b> <details><summary></summary>
+<details>
+  <summary>save_and_restore_listing_pos: </summary>
 
 <blockquote>
 
@@ -2325,7 +2392,8 @@ widgets
   </details>
 
 <a name="show_and_hide_waitbox"/>
-<b>show_and_hide_waitbox</b> <details><summary></summary>
+<details>
+  <summary>show_and_hide_waitbox: </summary>
 
 <blockquote>
 
@@ -2357,7 +2425,8 @@ widgets
   </details>
 
 <a name="show_selected_strings"/>
-<b>show_selected_strings</b> <details><summary></summary>
+<details>
+  <summary>show_selected_strings: </summary>
 
 <blockquote>
 
@@ -2396,7 +2465,8 @@ widgets
   </details>
 
 <a name="sync_two_graphs"/>
-<b>sync_two_graphs</b> <details><summary></summary>
+<details>
+  <summary>sync_two_graphs: </summary>
 
 <blockquote>
 
@@ -2436,7 +2506,8 @@ widgets
   </details>
 
 <a name="wrap_idaview"/>
-<b>wrap_idaview</b> <details><summary>manipulate IDAView and graph</summary>
+<details>
+  <summary>wrap_idaview: manipulate IDAView and graph</summary>
 
 <blockquote>
 
