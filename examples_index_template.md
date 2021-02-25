@@ -2,6 +2,7 @@
 
 <!--gen:group:category-->
 ## Category: <!--gen:category-->
+<blockquote>
 
 <!--gen:block-->
 #### <!--gen:name-->
@@ -39,4 +40,6 @@
   </details>
 
 <!--gen:end-->
+
+</blockquote>
 <!--gen:end-->

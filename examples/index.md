@@ -1,6 +1,7 @@
 # IDAPython examples
 
 ## Category: analysis
+<blockquote>
 
 #### dump_func_info
 <details>
@@ -34,7 +35,10 @@ analysis
 
   </details>
 
+
+</blockquote>
 ## Category: core
+<blockquote>
 
 #### actions
 <details>
@@ -795,7 +799,10 @@ core
 
   </details>
 
+
+</blockquote>
 ## Category: debugging
+<blockquote>
 
 #### automatic_steps
 <details>
@@ -1047,7 +1054,10 @@ debugging
 
   </details>
 
+
+</blockquote>
 ## Category: disassembly
+<blockquote>
 
 #### colorize_region
 <details>
@@ -1077,7 +1087,10 @@ idc
 
   </details>
 
+
+</blockquote>
 ## Category: hexrays
+<blockquote>
 
 #### decompile_entry_points
 <details>
@@ -1784,7 +1797,10 @@ hexrays
 
   </details>
 
+
+</blockquote>
 ## Category: idbhooks
+<blockquote>
 
 #### operand_changed
 <details>
@@ -1877,7 +1893,10 @@ frames, but we'll only record function prototypes changes.
 
   </details>
 
+
+</blockquote>
 ## Category: idphooks
+<blockquote>
 
 #### ana_emu_out
 <details>
@@ -1939,7 +1958,10 @@ idphooks
 
   </details>
 
+
+</blockquote>
 ## Category: pyqt
+<blockquote>
 
 #### inject_command
 <details>
@@ -2027,7 +2049,10 @@ pyqt
 
   </details>
 
+
+</blockquote>
 ## Category: uihooks
+<blockquote>
 
 #### lines_rendering
 <details>
@@ -2131,7 +2156,10 @@ uihooks
 
   </details>
 
+
+</blockquote>
 ## Category: widgets
+<blockquote>
 
 #### askusingform
 <details>
@@ -2543,3 +2571,5 @@ graph
 
   </details>
 
+
+</blockquote>
