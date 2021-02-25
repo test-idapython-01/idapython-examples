@@ -153,28 +153,6 @@ core
 
   </details>
   <details>
-    <summary>*colorize_region*: </summary>
-
-### Source code
-<a href="https://github.com/idapython/src/blob/master/examples/core/colorize_region.py">core/colorize_region.py</a>
-
-### Category
-core
-
-### Summary
-
-
-### Description
-
-
-### Keywords
-
-### Uses
-
-### See also
-
-  </details>
-  <details>
     <summary>*create_structure_programmatically*: </summary>
 
 ### Source code
@@ -981,6 +959,34 @@ debugging
   </details>
 </details>
 <details>
+  <summary>disassembly</summary>
+  <details>
+    <summary>*colorize_region*: change background colours</summary>
+
+### Source code
+<a href="https://github.com/idapython/src/blob/master/examples/core/colorize_region.py">core/colorize_region.py</a>
+
+### Category
+disassembly
+
+### Summary
+change background colours
+
+### Description
+This illustrates the setting/retrieval of background colours
+using the IDC wrappers
+
+### Keywords
+coloring
+idc
+
+### Uses
+
+### See also
+
+  </details>
+</details>
+<details>
   <summary>hexrays</summary>
   <details>
     <summary>*decompile_entry_points*: </summary>
@@ -1681,7 +1687,7 @@ idbhooks
 
   </details>
   <details>
-    <summary>*replay_prototypes_changes*: </summary>
+    <summary>*replay_prototypes_changes*: Record and replay changes in function prototypes</summary>
 
 ### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/idbhooks/replay_prototypes_changes.py">idbhooks/replay_prototypes_changes.py</a>
@@ -1690,10 +1696,22 @@ idbhooks
 idbhooks
 
 ### Summary
-
+Record and replay changes in function prototypes
 
 ### Description
+This is a sample script, that will record (in memory) all changes in
+functions prototypes, in order to re-apply them later.
 
+To use this script:
+ - open an IDB (say, "test.idb")
+ - modify some functions prototypes (e.g., by triggering the 'Y'
+   shortcut when the cursor is placed on the first address of a
+   function)
+ - reload that IDB, *without saving it first*
+ - call rpc.replay(), to re-apply the modifications.
+
+Note: 'ti_changed' is also called for changes to the function
+frames, but we'll only record function prototypes changes.
 
 ### Keywords
 
@@ -2011,7 +2029,7 @@ widgets
 
   </details>
   <details>
-    <summary>*choose_multi*: </summary>
+    <summary>*choose_multi*: choose multi</summary>
 
 ### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/tabular_views/custom/choose_multi.py">widgets/tabular_views/custom/choose_multi.py</a>
@@ -2020,7 +2038,7 @@ widgets
 widgets
 
 ### Summary
-
+choose multi
 
 ### Description
 
@@ -2288,7 +2306,7 @@ widgets
 
   </details>
   <details>
-    <summary>*wrap_idaview*: </summary>
+    <summary>*wrap_idaview*: manipulate IDAView and graph</summary>
 
 ### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/idaview/wrap_idaview.py">widgets/idaview/wrap_idaview.py</a>
@@ -2297,12 +2315,15 @@ widgets
 widgets
 
 ### Summary
-
+manipulate IDAView and graph
 
 ### Description
-
+This is an example illustrating how to manipulate an existing IDA-provided
+view (and thus its graph), in Python.
 
 ### Keywords
+idaview
+graph
 
 ### Uses
 * ida_graph.NIF_BG_COLOR
@@ -2315,6 +2336,8 @@ widgets
 * ida_kernwin.execute_sync
 
 ### See also
+* [custom_graph_with_actions](#custom_graph_with_actions)
+* [sync_two_graphs](#sync_two_graphs)
 
   </details>
 </details>
