@@ -2,13 +2,11 @@
 
 ## Category: analysis
 
+### dump_func_info
 <details>
-  <summary>*dump_func_info*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### dump_func_info
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/analysis/dump_func_info.py">analysis/dump_func_info.py</a>
@@ -38,13 +36,11 @@ analysis
 
 ## Category: core
 
+### actions
 <details>
-  <summary>*actions*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### actions
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/actions.py">core/actions.py</a>
@@ -79,13 +75,11 @@ core
 
   </details>
 
+### add_hotkey
 <details>
-  <summary>*add_hotkey*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### add_hotkey
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/add_hotkey.py">core/add_hotkey.py</a>
@@ -108,13 +102,11 @@ core
 
   </details>
 
+### add_idc_hotkey
 <details>
-  <summary>*add_idc_hotkey*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### add_idc_hotkey
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/add_idc_hotkey.py">core/add_idc_hotkey.py</a>
@@ -137,13 +129,11 @@ core
 
   </details>
 
+### auto_instantiate_widget_plugin
 <details>
-  <summary>*auto_instantiate_widget_plugin*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### auto_instantiate_widget_plugin
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/auto_instantiate_widget_plugin.py">core/auto_instantiate_widget_plugin.py</a>
@@ -175,13 +165,11 @@ core
 
   </details>
 
+### create_structure_programmatically
 <details>
-  <summary>*create_structure_programmatically*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### create_structure_programmatically
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/create_structure_programmatically.py">core/create_structure_programmatically.py</a>
@@ -225,13 +213,11 @@ core
 
   </details>
 
+### custom_cli
 <details>
-  <summary>*custom_cli*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### custom_cli
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/custom_cli.py">core/custom_cli.py</a>
@@ -258,13 +244,11 @@ core
 
   </details>
 
+### custom_data_types_and_formats
 <details>
-  <summary>*custom_data_types_and_formats*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### custom_data_types_and_formats
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/custom_data_types_and_formats.py">core/custom_data_types_and_formats.py</a>
@@ -305,13 +289,11 @@ core
 
   </details>
 
+### dump_extra_comments
 <details>
-  <summary>*dump_extra_comments*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### dump_extra_comments
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/dump_extra_comments.py">core/dump_extra_comments.py</a>
@@ -346,13 +328,11 @@ core
 
   </details>
 
+### dump_flowchart
 <details>
-  <summary>*dump_flowchart*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### dump_flowchart
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/dump_flowchart.py">core/dump_flowchart.py</a>
@@ -377,13 +357,11 @@ core
 
   </details>
 
+### extend_idc
 <details>
-  <summary>*extend_idc*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### extend_idc
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/extend_idc.py">core/extend_idc.py</a>
@@ -406,13 +384,11 @@ core
 
   </details>
 
+### idapythonrc
 <details>
-  <summary>*idapythonrc*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### idapythonrc
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/idapythonrc.py">core/idapythonrc.py</a>
@@ -433,13 +409,11 @@ core
 
   </details>
 
+### install_user_defined_prefix
 <details>
-  <summary>*install_user_defined_prefix*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### install_user_defined_prefix
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/install_user_defined_prefix.py">core/install_user_defined_prefix.py</a>
@@ -464,13 +438,11 @@ core
 
   </details>
 
+### list_imports
 <details>
-  <summary>*list_imports*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### list_imports
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/list_imports.py">core/list_imports.py</a>
@@ -494,13 +466,11 @@ core
 
   </details>
 
+### list_patched_bytes
 <details>
-  <summary>*list_patched_bytes*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### list_patched_bytes
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/list_patched_bytes.py">core/list_patched_bytes.py</a>
@@ -523,13 +493,11 @@ core
 
   </details>
 
+### list_problems
 <details>
-  <summary>*list_problems*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### list_problems
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/list_problems.py">core/list_problems.py</a>
@@ -570,13 +538,11 @@ core
 
   </details>
 
+### list_segment_functions
 <details>
-  <summary>*list_segment_functions*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### list_segment_functions
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/list_segment_functions.py">core/list_segment_functions.py</a>
@@ -605,13 +571,11 @@ core
 
   </details>
 
+### list_segment_functions_using_idautils
 <details>
-  <summary>*list_segment_functions_using_idautils*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### list_segment_functions_using_idautils
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/list_segment_functions_using_idautils.py">core/list_segment_functions_using_idautils.py</a>
@@ -638,13 +602,11 @@ core
 
   </details>
 
+### list_stkvar_xrefs
 <details>
-  <summary>*list_stkvar_xrefs*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### list_stkvar_xrefs
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/list_stkvar_xrefs.py">core/list_stkvar_xrefs.py</a>
@@ -685,13 +647,11 @@ core
 
   </details>
 
+### list_strings
 <details>
-  <summary>*list_strings*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### list_strings
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/list_strings.py">core/list_strings.py</a>
@@ -713,13 +673,11 @@ core
 
   </details>
 
+### produce_c_file
 <details>
-  <summary>*produce_c_file*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### produce_c_file
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/produce_c_file.py">core/produce_c_file.py</a>
@@ -748,13 +706,11 @@ core
 
   </details>
 
+### produce_lst_file
 <details>
-  <summary>*produce_lst_file*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### produce_lst_file
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/produce_lst_file.py">core/produce_lst_file.py</a>
@@ -784,13 +740,11 @@ core
 
   </details>
 
+### register_timer
 <details>
-  <summary>*register_timer*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### register_timer
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/register_timer.py">core/register_timer.py</a>
@@ -812,13 +766,11 @@ core
 
   </details>
 
+### trigger_actions_programmatically
 <details>
-  <summary>*trigger_actions_programmatically*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### trigger_actions_programmatically
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/trigger_actions_programmatically.py">core/trigger_actions_programmatically.py</a>
@@ -845,13 +797,11 @@ core
 
 ## Category: debugging
 
+### automatic_steps
 <details>
-  <summary>*automatic_steps*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### automatic_steps
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/debugging/dbghooks/automatic_steps.py">debugging/dbghooks/automatic_steps.py</a>
@@ -882,13 +832,11 @@ debugging
 
   </details>
 
+### dbg_trace
 <details>
-  <summary>*dbg_trace*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### dbg_trace
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/debugging/dbghooks/dbg_trace.py">debugging/dbghooks/dbg_trace.py</a>
@@ -942,13 +890,11 @@ debugging
 
   </details>
 
+### registers_context_menu
 <details>
-  <summary>*registers_context_menu*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### registers_context_menu
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/debugging/misc/registers_context_menu.py">debugging/misc/registers_context_menu.py</a>
@@ -985,13 +931,11 @@ debugging
 
   </details>
 
+### show_debug_names
 <details>
-  <summary>*show_debug_names*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### show_debug_names
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/debugging/show_debug_names.py">debugging/show_debug_names.py</a>
@@ -1017,13 +961,11 @@ debugging
 
   </details>
 
+### simple_appcall_common
 <details>
-  <summary>*simple_appcall_common*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### simple_appcall_common
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/debugging/appcall/simple_appcall_common.py">debugging/appcall/simple_appcall_common.py</a>
@@ -1054,13 +996,11 @@ debugging
 
   </details>
 
+### simple_appcall_linux
 <details>
-  <summary>*simple_appcall_linux*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### simple_appcall_linux
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/debugging/appcall/simple_appcall_linux.py">debugging/appcall/simple_appcall_linux.py</a>
@@ -1081,13 +1021,11 @@ debugging
 
   </details>
 
+### simple_appcall_win
 <details>
-  <summary>*simple_appcall_win*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### simple_appcall_win
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/debugging/appcall/simple_appcall_win.py">debugging/appcall/simple_appcall_win.py</a>
@@ -1111,13 +1049,11 @@ debugging
 
 ## Category: disassembly
 
+### colorize_region
 <details>
-  <summary>*colorize_region*: change background colours</summary>
+  <summary>change background colours</summary>
 
 <blockquote>
-
-### colorize_region
-change background colours
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/core/colorize_region.py">core/colorize_region.py</a>
@@ -1143,13 +1079,11 @@ idc
 
 ## Category: hexrays
 
+### decompile_entry_points
 <details>
-  <summary>*decompile_entry_points*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### decompile_entry_points
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/decompile_entry_points.py">hexrays/decompile_entry_points.py</a>
@@ -1183,13 +1117,11 @@ hexrays
 
   </details>
 
+### vds1
 <details>
-  <summary>*vds1*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds1
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds1.py">hexrays/vds1.py</a>
@@ -1216,13 +1148,11 @@ hexrays
 
   </details>
 
+### vds10
 <details>
-  <summary>*vds10*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds10
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds10.py">hexrays/vds10.py</a>
@@ -1252,13 +1182,11 @@ hexrays
 
   </details>
 
+### vds11
 <details>
-  <summary>*vds11*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds11
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds11.py">hexrays/vds11.py</a>
@@ -1286,13 +1214,11 @@ hexrays
 
   </details>
 
+### vds12
 <details>
-  <summary>*vds12*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds12
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds12.py">hexrays/vds12.py</a>
@@ -1342,13 +1268,11 @@ hexrays
 
   </details>
 
+### vds13
 <details>
-  <summary>*vds13*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds13
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds13.py">hexrays/vds13.py</a>
@@ -1380,13 +1304,11 @@ hexrays
 
   </details>
 
+### vds17
 <details>
-  <summary>*vds17*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds17
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds17.py">hexrays/vds17.py</a>
@@ -1437,13 +1359,11 @@ hexrays
 
   </details>
 
+### vds19
 <details>
-  <summary>*vds19*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds19
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds19.py">hexrays/vds19.py</a>
@@ -1474,13 +1394,11 @@ hexrays
 
   </details>
 
+### vds3
 <details>
-  <summary>*vds3*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds3
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds3.py">hexrays/vds3.py</a>
@@ -1526,13 +1444,11 @@ hexrays
 
   </details>
 
+### vds4
 <details>
-  <summary>*vds4*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds4
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds4.py">hexrays/vds4.py</a>
@@ -1568,13 +1484,11 @@ hexrays
 
   </details>
 
+### vds5
 <details>
-  <summary>*vds5*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds5
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds5.py">hexrays/vds5.py</a>
@@ -1625,13 +1539,11 @@ hexrays
 
   </details>
 
+### vds6
 <details>
-  <summary>*vds6*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds6
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds6.py">hexrays/vds6.py</a>
@@ -1659,13 +1571,11 @@ hexrays
 
   </details>
 
+### vds7
 <details>
-  <summary>*vds7*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds7
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds7.py">hexrays/vds7.py</a>
@@ -1692,13 +1602,11 @@ hexrays
 
   </details>
 
+### vds8
 <details>
-  <summary>*vds8*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds8
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds8.py">hexrays/vds8.py</a>
@@ -1733,13 +1641,11 @@ hexrays
 
   </details>
 
+### vds_create_hint
 <details>
-  <summary>*vds_create_hint*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds_create_hint
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds_create_hint.py">hexrays/vds_create_hint.py</a>
@@ -1766,13 +1672,11 @@ hexrays
 
   </details>
 
+### vds_hooks
 <details>
-  <summary>*vds_hooks*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds_hooks
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds_hooks.py">hexrays/vds_hooks.py</a>
@@ -1794,13 +1698,11 @@ hexrays
 
   </details>
 
+### vds_modify_user_lvars
 <details>
-  <summary>*vds_modify_user_lvars*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds_modify_user_lvars
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds_modify_user_lvars.py">hexrays/vds_modify_user_lvars.py</a>
@@ -1826,13 +1728,11 @@ hexrays
 
   </details>
 
+### vds_xrefs
 <details>
-  <summary>*vds_xrefs*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### vds_xrefs
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds_xrefs.py">hexrays/vds_xrefs.py</a>
@@ -1886,13 +1786,11 @@ hexrays
 
 ## Category: idbhooks
 
+### operand_changed
 <details>
-  <summary>*operand_changed*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### operand_changed
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/idbhooks/operand_changed.py">idbhooks/operand_changed.py</a>
@@ -1935,13 +1833,11 @@ idbhooks
 
   </details>
 
+### replay_prototypes_changes
 <details>
-  <summary>*replay_prototypes_changes*: Record and replay changes in function prototypes</summary>
+  <summary>Record and replay changes in function prototypes</summary>
 
 <blockquote>
-
-### replay_prototypes_changes
-Record and replay changes in function prototypes
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/idbhooks/replay_prototypes_changes.py">idbhooks/replay_prototypes_changes.py</a>
@@ -1983,13 +1879,11 @@ frames, but we'll only record function prototypes changes.
 
 ## Category: idphooks
 
+### ana_emu_out
 <details>
-  <summary>*ana_emu_out*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### ana_emu_out
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/idphooks/ana_emu_out.py">idphooks/ana_emu_out.py</a>
@@ -2018,13 +1912,11 @@ idphooks
 
   </details>
 
+### assemble
 <details>
-  <summary>*assemble*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### assemble
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/idphooks/assemble.py">idphooks/assemble.py</a>
@@ -2049,13 +1941,11 @@ idphooks
 
 ## Category: pyqt
 
+### inject_command
 <details>
-  <summary>*inject_command*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### inject_command
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/pyqt/inject_command.py">pyqt/inject_command.py</a>
@@ -2080,13 +1970,11 @@ pyqt
 
   </details>
 
+### paint_over_navbar
 <details>
-  <summary>*paint_over_navbar*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### paint_over_navbar
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/pyqt/paint_over_navbar.py">pyqt/paint_over_navbar.py</a>
@@ -2113,13 +2001,11 @@ pyqt
 
   </details>
 
+### populate_pluginform_with_pyqt_widgets
 <details>
-  <summary>*populate_pluginform_with_pyqt_widgets*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### populate_pluginform_with_pyqt_widgets
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/pyqt/populate_pluginform_with_pyqt_widgets.py">pyqt/populate_pluginform_with_pyqt_widgets.py</a>
@@ -2143,13 +2029,11 @@ pyqt
 
 ## Category: uihooks
 
+### lines_rendering
 <details>
-  <summary>*lines_rendering*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### lines_rendering
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/uihooks/lines_rendering.py">uihooks/lines_rendering.py</a>
@@ -2195,13 +2079,11 @@ uihooks
 
   </details>
 
+### log_misc_events
 <details>
-  <summary>*log_misc_events*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### log_misc_events
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/uihooks/log_misc_events.py">uihooks/log_misc_events.py</a>
@@ -2223,13 +2105,11 @@ uihooks
 
   </details>
 
+### prevent_jump
 <details>
-  <summary>*prevent_jump*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### prevent_jump
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/uihooks/prevent_jump.py">uihooks/prevent_jump.py</a>
@@ -2253,13 +2133,11 @@ uihooks
 
 ## Category: widgets
 
+### askusingform
 <details>
-  <summary>*askusingform*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### askusingform
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/forms/askusingform.py">widgets/forms/askusingform.py</a>
@@ -2285,13 +2163,11 @@ widgets
 
   </details>
 
+### choose
 <details>
-  <summary>*choose*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### choose
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/tabular_views/custom/choose.py">widgets/tabular_views/custom/choose.py</a>
@@ -2328,13 +2204,11 @@ widgets
 
   </details>
 
+### choose_multi
 <details>
-  <summary>*choose_multi*: choose multi</summary>
+  <summary>choose multi</summary>
 
 <blockquote>
-
-### choose_multi
-choose multi
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/tabular_views/custom/choose_multi.py">widgets/tabular_views/custom/choose_multi.py</a>
@@ -2360,13 +2234,11 @@ widgets
 
   </details>
 
+### custom_graph_with_actions
 <details>
-  <summary>*custom_graph_with_actions*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### custom_graph_with_actions
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/graphs/custom_graph_with_actions.py">widgets/graphs/custom_graph_with_actions.py</a>
@@ -2405,13 +2277,11 @@ widgets
 
   </details>
 
+### custom_viewer
 <details>
-  <summary>*custom_viewer*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### custom_viewer
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/listings/custom_viewer.py">widgets/listings/custom_viewer.py</a>
@@ -2448,13 +2318,11 @@ widgets
 
   </details>
 
+### func_chooser
 <details>
-  <summary>*func_chooser*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### func_chooser
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/tabular_views/custom/func_chooser.py">widgets/tabular_views/custom/func_chooser.py</a>
@@ -2483,13 +2351,11 @@ widgets
 
   </details>
 
+### save_and_restore_listing_pos
 <details>
-  <summary>*save_and_restore_listing_pos*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### save_and_restore_listing_pos
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/listings/save_and_restore_listing_pos.py">widgets/listings/save_and_restore_listing_pos.py</a>
@@ -2525,13 +2391,11 @@ widgets
 
   </details>
 
+### show_and_hide_waitbox
 <details>
-  <summary>*show_and_hide_waitbox*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### show_and_hide_waitbox
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/waitbox/show_and_hide_waitbox.py">widgets/waitbox/show_and_hide_waitbox.py</a>
@@ -2560,13 +2424,11 @@ widgets
 
   </details>
 
+### show_selected_strings
 <details>
-  <summary>*show_selected_strings*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### show_selected_strings
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/tabular_views/strings_window/show_selected_strings.py">widgets/tabular_views/strings_window/show_selected_strings.py</a>
@@ -2602,13 +2464,11 @@ widgets
 
   </details>
 
+### sync_two_graphs
 <details>
-  <summary>*sync_two_graphs*: </summary>
+  <summary></summary>
 
 <blockquote>
-
-### sync_two_graphs
-
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/graphs/sync_two_graphs.py">widgets/graphs/sync_two_graphs.py</a>
@@ -2645,13 +2505,11 @@ widgets
 
   </details>
 
+### wrap_idaview
 <details>
-  <summary>*wrap_idaview*: manipulate IDAView and graph</summary>
+  <summary>manipulate IDAView and graph</summary>
 
 <blockquote>
-
-### wrap_idaview
-manipulate IDAView and graph
 
 #### Source code
 <a href="https://github.com/idapython/src/blob/master/examples/widgets/idaview/wrap_idaview.py">widgets/idaview/wrap_idaview.py</a>
