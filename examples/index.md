@@ -2,7 +2,7 @@
 
 ## Category: analysis
 
-####dump_func_info
+#### dump_func_info
 <details>
   <summary></summary>
 
@@ -36,7 +36,7 @@ analysis
 
 ## Category: core
 
-####actions
+#### actions
 <details>
   <summary></summary>
 
@@ -75,7 +75,7 @@ core
 
   </details>
 
-####add_hotkey
+#### add_hotkey
 <details>
   <summary></summary>
 
@@ -102,7 +102,7 @@ core
 
   </details>
 
-####add_idc_hotkey
+#### add_idc_hotkey
 <details>
   <summary></summary>
 
@@ -129,7 +129,7 @@ core
 
   </details>
 
-####auto_instantiate_widget_plugin
+#### auto_instantiate_widget_plugin
 <details>
   <summary></summary>
 
@@ -165,7 +165,7 @@ core
 
   </details>
 
-####create_structure_programmatically
+#### create_structure_programmatically
 <details>
   <summary></summary>
 
@@ -213,7 +213,7 @@ core
 
   </details>
 
-####custom_cli
+#### custom_cli
 <details>
   <summary></summary>
 
@@ -244,7 +244,7 @@ core
 
   </details>
 
-####custom_data_types_and_formats
+#### custom_data_types_and_formats
 <details>
   <summary></summary>
 
@@ -289,7 +289,7 @@ core
 
   </details>
 
-####dump_extra_comments
+#### dump_extra_comments
 <details>
   <summary></summary>
 
@@ -328,7 +328,7 @@ core
 
   </details>
 
-####dump_flowchart
+#### dump_flowchart
 <details>
   <summary></summary>
 
@@ -357,7 +357,7 @@ core
 
   </details>
 
-####extend_idc
+#### extend_idc
 <details>
   <summary></summary>
 
@@ -384,7 +384,7 @@ core
 
   </details>
 
-####idapythonrc
+#### idapythonrc
 <details>
   <summary></summary>
 
@@ -409,7 +409,7 @@ core
 
   </details>
 
-####install_user_defined_prefix
+#### install_user_defined_prefix
 <details>
   <summary></summary>
 
@@ -438,7 +438,7 @@ core
 
   </details>
 
-####list_imports
+#### list_imports
 <details>
   <summary></summary>
 
@@ -466,7 +466,7 @@ core
 
   </details>
 
-####list_patched_bytes
+#### list_patched_bytes
 <details>
   <summary></summary>
 
@@ -493,7 +493,7 @@ core
 
   </details>
 
-####list_problems
+#### list_problems
 <details>
   <summary></summary>
 
@@ -538,7 +538,7 @@ core
 
   </details>
 
-####list_segment_functions
+#### list_segment_functions
 <details>
   <summary></summary>
 
@@ -571,7 +571,7 @@ core
 
   </details>
 
-####list_segment_functions_using_idautils
+#### list_segment_functions_using_idautils
 <details>
   <summary></summary>
 
@@ -602,7 +602,7 @@ core
 
   </details>
 
-####list_stkvar_xrefs
+#### list_stkvar_xrefs
 <details>
   <summary></summary>
 
@@ -647,7 +647,7 @@ core
 
   </details>
 
-####list_strings
+#### list_strings
 <details>
   <summary></summary>
 
@@ -673,7 +673,7 @@ core
 
   </details>
 
-####produce_c_file
+#### produce_c_file
 <details>
   <summary></summary>
 
@@ -706,7 +706,7 @@ core
 
   </details>
 
-####produce_lst_file
+#### produce_lst_file
 <details>
   <summary></summary>
 
@@ -740,7 +740,7 @@ core
 
   </details>
 
-####register_timer
+#### register_timer
 <details>
   <summary></summary>
 
@@ -766,7 +766,7 @@ core
 
   </details>
 
-####trigger_actions_programmatically
+#### trigger_actions_programmatically
 <details>
   <summary></summary>
 
@@ -797,7 +797,7 @@ core
 
 ## Category: debugging
 
-####automatic_steps
+#### automatic_steps
 <details>
   <summary></summary>
 
@@ -832,7 +832,7 @@ debugging
 
   </details>
 
-####dbg_trace
+#### dbg_trace
 <details>
   <summary></summary>
 
@@ -890,7 +890,7 @@ debugging
 
   </details>
 
-####registers_context_menu
+#### registers_context_menu
 <details>
   <summary></summary>
 
@@ -931,7 +931,7 @@ debugging
 
   </details>
 
-####show_debug_names
+#### show_debug_names
 <details>
   <summary></summary>
 
@@ -961,7 +961,7 @@ debugging
 
   </details>
 
-####simple_appcall_common
+#### simple_appcall_common
 <details>
   <summary></summary>
 
@@ -996,7 +996,7 @@ debugging
 
   </details>
 
-####simple_appcall_linux
+#### simple_appcall_linux
 <details>
   <summary></summary>
 
@@ -1021,7 +1021,7 @@ debugging
 
   </details>
 
-####simple_appcall_win
+#### simple_appcall_win
 <details>
   <summary></summary>
 
@@ -1049,7 +1049,7 @@ debugging
 
 ## Category: disassembly
 
-####colorize_region
+#### colorize_region
 <details>
   <summary>change background colours</summary>
 
@@ -1079,7 +1079,7 @@ idc
 
 ## Category: hexrays
 
-####decompile_entry_points
+#### decompile_entry_points
 <details>
   <summary></summary>
 
@@ -1117,7 +1117,7 @@ hexrays
 
   </details>
 
-####vds1
+#### vds1
 <details>
   <summary></summary>
 
@@ -1148,7 +1148,7 @@ hexrays
 
   </details>
 
-####vds10
+#### vds10
 <details>
   <summary></summary>
 
@@ -1182,7 +1182,7 @@ hexrays
 
   </details>
 
-####vds11
+#### vds11
 <details>
   <summary></summary>
 
@@ -1214,7 +1214,7 @@ hexrays
 
   </details>
 
-####vds12
+#### vds12
 <details>
   <summary></summary>
 
@@ -1268,7 +1268,7 @@ hexrays
 
   </details>
 
-####vds13
+#### vds13
 <details>
   <summary></summary>
 
@@ -1304,7 +1304,7 @@ hexrays
 
   </details>
 
-####vds17
+#### vds17
 <details>
   <summary></summary>
 
@@ -1359,7 +1359,7 @@ hexrays
 
   </details>
 
-####vds19
+#### vds19
 <details>
   <summary></summary>
 
@@ -1394,7 +1394,7 @@ hexrays
 
   </details>
 
-####vds3
+#### vds3
 <details>
   <summary></summary>
 
@@ -1444,7 +1444,7 @@ hexrays
 
   </details>
 
-####vds4
+#### vds4
 <details>
   <summary></summary>
 
@@ -1484,7 +1484,7 @@ hexrays
 
   </details>
 
-####vds5
+#### vds5
 <details>
   <summary></summary>
 
@@ -1539,7 +1539,7 @@ hexrays
 
   </details>
 
-####vds6
+#### vds6
 <details>
   <summary></summary>
 
@@ -1571,7 +1571,7 @@ hexrays
 
   </details>
 
-####vds7
+#### vds7
 <details>
   <summary></summary>
 
@@ -1602,7 +1602,7 @@ hexrays
 
   </details>
 
-####vds8
+#### vds8
 <details>
   <summary></summary>
 
@@ -1641,7 +1641,7 @@ hexrays
 
   </details>
 
-####vds_create_hint
+#### vds_create_hint
 <details>
   <summary></summary>
 
@@ -1672,7 +1672,7 @@ hexrays
 
   </details>
 
-####vds_hooks
+#### vds_hooks
 <details>
   <summary></summary>
 
@@ -1698,7 +1698,7 @@ hexrays
 
   </details>
 
-####vds_modify_user_lvars
+#### vds_modify_user_lvars
 <details>
   <summary></summary>
 
@@ -1728,7 +1728,7 @@ hexrays
 
   </details>
 
-####vds_xrefs
+#### vds_xrefs
 <details>
   <summary></summary>
 
@@ -1786,7 +1786,7 @@ hexrays
 
 ## Category: idbhooks
 
-####operand_changed
+#### operand_changed
 <details>
   <summary></summary>
 
@@ -1833,7 +1833,7 @@ idbhooks
 
   </details>
 
-####replay_prototypes_changes
+#### replay_prototypes_changes
 <details>
   <summary>Record and replay changes in function prototypes</summary>
 
@@ -1879,7 +1879,7 @@ frames, but we'll only record function prototypes changes.
 
 ## Category: idphooks
 
-####ana_emu_out
+#### ana_emu_out
 <details>
   <summary></summary>
 
@@ -1912,7 +1912,7 @@ idphooks
 
   </details>
 
-####assemble
+#### assemble
 <details>
   <summary></summary>
 
@@ -1941,7 +1941,7 @@ idphooks
 
 ## Category: pyqt
 
-####inject_command
+#### inject_command
 <details>
   <summary></summary>
 
@@ -1970,7 +1970,7 @@ pyqt
 
   </details>
 
-####paint_over_navbar
+#### paint_over_navbar
 <details>
   <summary></summary>
 
@@ -2001,7 +2001,7 @@ pyqt
 
   </details>
 
-####populate_pluginform_with_pyqt_widgets
+#### populate_pluginform_with_pyqt_widgets
 <details>
   <summary></summary>
 
@@ -2029,7 +2029,7 @@ pyqt
 
 ## Category: uihooks
 
-####lines_rendering
+#### lines_rendering
 <details>
   <summary></summary>
 
@@ -2079,7 +2079,7 @@ uihooks
 
   </details>
 
-####log_misc_events
+#### log_misc_events
 <details>
   <summary></summary>
 
@@ -2105,7 +2105,7 @@ uihooks
 
   </details>
 
-####prevent_jump
+#### prevent_jump
 <details>
   <summary></summary>
 
@@ -2133,7 +2133,7 @@ uihooks
 
 ## Category: widgets
 
-####askusingform
+#### askusingform
 <details>
   <summary></summary>
 
@@ -2163,7 +2163,7 @@ widgets
 
   </details>
 
-####choose
+#### choose
 <details>
   <summary></summary>
 
@@ -2204,7 +2204,7 @@ widgets
 
   </details>
 
-####choose_multi
+#### choose_multi
 <details>
   <summary>choose multi</summary>
 
@@ -2234,7 +2234,7 @@ widgets
 
   </details>
 
-####custom_graph_with_actions
+#### custom_graph_with_actions
 <details>
   <summary></summary>
 
@@ -2277,7 +2277,7 @@ widgets
 
   </details>
 
-####custom_viewer
+#### custom_viewer
 <details>
   <summary></summary>
 
@@ -2318,7 +2318,7 @@ widgets
 
   </details>
 
-####func_chooser
+#### func_chooser
 <details>
   <summary></summary>
 
@@ -2351,7 +2351,7 @@ widgets
 
   </details>
 
-####save_and_restore_listing_pos
+#### save_and_restore_listing_pos
 <details>
   <summary></summary>
 
@@ -2391,7 +2391,7 @@ widgets
 
   </details>
 
-####show_and_hide_waitbox
+#### show_and_hide_waitbox
 <details>
   <summary></summary>
 
@@ -2424,7 +2424,7 @@ widgets
 
   </details>
 
-####show_selected_strings
+#### show_selected_strings
 <details>
   <summary></summary>
 
@@ -2464,7 +2464,7 @@ widgets
 
   </details>
 
-####sync_two_graphs
+#### sync_two_graphs
 <details>
   <summary></summary>
 
@@ -2505,7 +2505,7 @@ widgets
 
   </details>
 
-####wrap_idaview
+#### wrap_idaview
 <details>
   <summary>manipulate IDAView and graph</summary>
 
