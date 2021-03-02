@@ -1,5 +1,10 @@
 # IDAPython examples
 
+<!--
+[Switch to HTML](http://htmlpreview.github.io/?https://github.com/idapython/src/tree/master/examples/index.html)
+-->
+[Switch to HTML](http://htmlpreview.github.io/?https://github.com/test-idapython-01/idapython-examples/master/examples/index.html)
+
 ## Category: analysis
 
 #### dump_func_info
