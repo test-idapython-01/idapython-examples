@@ -16,7 +16,7 @@
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/<!--gen:path-->"><!--gen:path--></a>
+<a href="https://github.com/idapython/src/blob/master/examples/<!--gen:path-->"><!--gen:path--></a>
 
 #### Category
 <!--gen:category-->

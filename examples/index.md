@@ -14,7 +14,7 @@
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/analysis/dump_func_info.py">analysis/dump_func_info.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/analysis/dump_func_info.py">analysis/dump_func_info.py</a>
 
 #### Category
 analysis
@@ -48,7 +48,7 @@ analysis
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/actions.py">core/actions.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/actions.py">core/actions.py</a>
 
 #### Category
 core
@@ -87,7 +87,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/add_hotkey.py">core/add_hotkey.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/add_hotkey.py">core/add_hotkey.py</a>
 
 #### Category
 core
@@ -114,7 +114,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/add_idc_hotkey.py">core/add_idc_hotkey.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/add_idc_hotkey.py">core/add_idc_hotkey.py</a>
 
 #### Category
 core
@@ -141,7 +141,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/auto_instantiate_widget_plugin.py">core/auto_instantiate_widget_plugin.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/auto_instantiate_widget_plugin.py">core/auto_instantiate_widget_plugin.py</a>
 
 #### Category
 core
@@ -177,7 +177,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/create_structure_programmatically.py">core/create_structure_programmatically.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/create_structure_programmatically.py">core/create_structure_programmatically.py</a>
 
 #### Category
 core
@@ -225,7 +225,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/custom_cli.py">core/custom_cli.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/custom_cli.py">core/custom_cli.py</a>
 
 #### Category
 core
@@ -256,7 +256,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/custom_data_types_and_formats.py">core/custom_data_types_and_formats.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/custom_data_types_and_formats.py">core/custom_data_types_and_formats.py</a>
 
 #### Category
 core
@@ -301,7 +301,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/dump_extra_comments.py">core/dump_extra_comments.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/dump_extra_comments.py">core/dump_extra_comments.py</a>
 
 #### Category
 core
@@ -340,7 +340,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/dump_flowchart.py">core/dump_flowchart.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/dump_flowchart.py">core/dump_flowchart.py</a>
 
 #### Category
 core
@@ -369,7 +369,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/extend_idc.py">core/extend_idc.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/extend_idc.py">core/extend_idc.py</a>
 
 #### Category
 core
@@ -396,7 +396,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/idapythonrc.py">core/idapythonrc.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/idapythonrc.py">core/idapythonrc.py</a>
 
 #### Category
 core
@@ -421,7 +421,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/install_user_defined_prefix.py">core/install_user_defined_prefix.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/install_user_defined_prefix.py">core/install_user_defined_prefix.py</a>
 
 #### Category
 core
@@ -450,7 +450,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/list_imports.py">core/list_imports.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/list_imports.py">core/list_imports.py</a>
 
 #### Category
 core
@@ -478,7 +478,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/list_patched_bytes.py">core/list_patched_bytes.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/list_patched_bytes.py">core/list_patched_bytes.py</a>
 
 #### Category
 core
@@ -505,7 +505,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/list_problems.py">core/list_problems.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/list_problems.py">core/list_problems.py</a>
 
 #### Category
 core
@@ -550,7 +550,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/list_segment_functions.py">core/list_segment_functions.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/list_segment_functions.py">core/list_segment_functions.py</a>
 
 #### Category
 core
@@ -583,7 +583,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/list_segment_functions_using_idautils.py">core/list_segment_functions_using_idautils.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/list_segment_functions_using_idautils.py">core/list_segment_functions_using_idautils.py</a>
 
 #### Category
 core
@@ -614,7 +614,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/list_stkvar_xrefs.py">core/list_stkvar_xrefs.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/list_stkvar_xrefs.py">core/list_stkvar_xrefs.py</a>
 
 #### Category
 core
@@ -659,7 +659,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/list_strings.py">core/list_strings.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/list_strings.py">core/list_strings.py</a>
 
 #### Category
 core
@@ -685,7 +685,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/produce_c_file.py">core/produce_c_file.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/produce_c_file.py">core/produce_c_file.py</a>
 
 #### Category
 core
@@ -718,7 +718,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/produce_lst_file.py">core/produce_lst_file.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/produce_lst_file.py">core/produce_lst_file.py</a>
 
 #### Category
 core
@@ -752,7 +752,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/register_timer.py">core/register_timer.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/register_timer.py">core/register_timer.py</a>
 
 #### Category
 core
@@ -778,7 +778,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/trigger_actions_programmatically.py">core/trigger_actions_programmatically.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/trigger_actions_programmatically.py">core/trigger_actions_programmatically.py</a>
 
 #### Category
 core
@@ -809,7 +809,7 @@ core
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/debugging/dbghooks/automatic_steps.py">debugging/dbghooks/automatic_steps.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/debugging/dbghooks/automatic_steps.py">debugging/dbghooks/automatic_steps.py</a>
 
 #### Category
 debugging
@@ -844,7 +844,7 @@ debugging
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/debugging/dbghooks/dbg_trace.py">debugging/dbghooks/dbg_trace.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/debugging/dbghooks/dbg_trace.py">debugging/dbghooks/dbg_trace.py</a>
 
 #### Category
 debugging
@@ -902,7 +902,7 @@ debugging
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/debugging/misc/registers_context_menu.py">debugging/misc/registers_context_menu.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/debugging/misc/registers_context_menu.py">debugging/misc/registers_context_menu.py</a>
 
 #### Category
 debugging
@@ -943,7 +943,7 @@ debugging
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/debugging/show_debug_names.py">debugging/show_debug_names.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/debugging/show_debug_names.py">debugging/show_debug_names.py</a>
 
 #### Category
 debugging
@@ -973,7 +973,7 @@ debugging
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/debugging/appcall/simple_appcall_common.py">debugging/appcall/simple_appcall_common.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/debugging/appcall/simple_appcall_common.py">debugging/appcall/simple_appcall_common.py</a>
 
 #### Category
 debugging
@@ -1008,7 +1008,7 @@ debugging
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/debugging/appcall/simple_appcall_linux.py">debugging/appcall/simple_appcall_linux.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/debugging/appcall/simple_appcall_linux.py">debugging/appcall/simple_appcall_linux.py</a>
 
 #### Category
 debugging
@@ -1033,7 +1033,7 @@ debugging
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/debugging/appcall/simple_appcall_win.py">debugging/appcall/simple_appcall_win.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/debugging/appcall/simple_appcall_win.py">debugging/appcall/simple_appcall_win.py</a>
 
 #### Category
 debugging
@@ -1061,7 +1061,7 @@ debugging
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/core/colorize_region.py">core/colorize_region.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/core/colorize_region.py">core/colorize_region.py</a>
 
 #### Category
 disassembly
@@ -1091,7 +1091,7 @@ idc
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/decompile_entry_points.py">hexrays/decompile_entry_points.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/decompile_entry_points.py">hexrays/decompile_entry_points.py</a>
 
 #### Category
 hexrays
@@ -1129,7 +1129,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds1.py">hexrays/vds1.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds1.py">hexrays/vds1.py</a>
 
 #### Category
 hexrays
@@ -1160,7 +1160,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds10.py">hexrays/vds10.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds10.py">hexrays/vds10.py</a>
 
 #### Category
 hexrays
@@ -1194,7 +1194,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds11.py">hexrays/vds11.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds11.py">hexrays/vds11.py</a>
 
 #### Category
 hexrays
@@ -1226,7 +1226,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds12.py">hexrays/vds12.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds12.py">hexrays/vds12.py</a>
 
 #### Category
 hexrays
@@ -1280,7 +1280,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds13.py">hexrays/vds13.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds13.py">hexrays/vds13.py</a>
 
 #### Category
 hexrays
@@ -1316,7 +1316,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds17.py">hexrays/vds17.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds17.py">hexrays/vds17.py</a>
 
 #### Category
 hexrays
@@ -1371,7 +1371,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds19.py">hexrays/vds19.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds19.py">hexrays/vds19.py</a>
 
 #### Category
 hexrays
@@ -1406,7 +1406,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds3.py">hexrays/vds3.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds3.py">hexrays/vds3.py</a>
 
 #### Category
 hexrays
@@ -1456,7 +1456,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds4.py">hexrays/vds4.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds4.py">hexrays/vds4.py</a>
 
 #### Category
 hexrays
@@ -1496,7 +1496,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds5.py">hexrays/vds5.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds5.py">hexrays/vds5.py</a>
 
 #### Category
 hexrays
@@ -1551,7 +1551,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds6.py">hexrays/vds6.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds6.py">hexrays/vds6.py</a>
 
 #### Category
 hexrays
@@ -1583,7 +1583,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds7.py">hexrays/vds7.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds7.py">hexrays/vds7.py</a>
 
 #### Category
 hexrays
@@ -1614,7 +1614,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds8.py">hexrays/vds8.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds8.py">hexrays/vds8.py</a>
 
 #### Category
 hexrays
@@ -1653,7 +1653,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds_create_hint.py">hexrays/vds_create_hint.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds_create_hint.py">hexrays/vds_create_hint.py</a>
 
 #### Category
 hexrays
@@ -1684,7 +1684,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds_hooks.py">hexrays/vds_hooks.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds_hooks.py">hexrays/vds_hooks.py</a>
 
 #### Category
 hexrays
@@ -1710,7 +1710,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds_modify_user_lvars.py">hexrays/vds_modify_user_lvars.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds_modify_user_lvars.py">hexrays/vds_modify_user_lvars.py</a>
 
 #### Category
 hexrays
@@ -1740,7 +1740,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/hexrays/vds_xrefs.py">hexrays/vds_xrefs.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/hexrays/vds_xrefs.py">hexrays/vds_xrefs.py</a>
 
 #### Category
 hexrays
@@ -1798,7 +1798,7 @@ hexrays
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/idbhooks/operand_changed.py">idbhooks/operand_changed.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/idbhooks/operand_changed.py">idbhooks/operand_changed.py</a>
 
 #### Category
 idbhooks
@@ -1845,7 +1845,7 @@ idbhooks
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/idbhooks/replay_prototypes_changes.py">idbhooks/replay_prototypes_changes.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/idbhooks/replay_prototypes_changes.py">idbhooks/replay_prototypes_changes.py</a>
 
 #### Category
 idbhooks
@@ -1891,7 +1891,7 @@ frames, but we'll only record function prototypes changes.
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/idphooks/ana_emu_out.py">idphooks/ana_emu_out.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/idphooks/ana_emu_out.py">idphooks/ana_emu_out.py</a>
 
 #### Category
 idphooks
@@ -1924,7 +1924,7 @@ idphooks
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/idphooks/assemble.py">idphooks/assemble.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/idphooks/assemble.py">idphooks/assemble.py</a>
 
 #### Category
 idphooks
@@ -1953,7 +1953,7 @@ idphooks
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/pyqt/inject_command.py">pyqt/inject_command.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/pyqt/inject_command.py">pyqt/inject_command.py</a>
 
 #### Category
 pyqt
@@ -1982,7 +1982,7 @@ pyqt
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/pyqt/paint_over_navbar.py">pyqt/paint_over_navbar.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/pyqt/paint_over_navbar.py">pyqt/paint_over_navbar.py</a>
 
 #### Category
 pyqt
@@ -2013,7 +2013,7 @@ pyqt
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/pyqt/populate_pluginform_with_pyqt_widgets.py">pyqt/populate_pluginform_with_pyqt_widgets.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/pyqt/populate_pluginform_with_pyqt_widgets.py">pyqt/populate_pluginform_with_pyqt_widgets.py</a>
 
 #### Category
 pyqt
@@ -2041,7 +2041,7 @@ pyqt
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/uihooks/lines_rendering.py">uihooks/lines_rendering.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/uihooks/lines_rendering.py">uihooks/lines_rendering.py</a>
 
 #### Category
 uihooks
@@ -2091,7 +2091,7 @@ uihooks
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/uihooks/log_misc_events.py">uihooks/log_misc_events.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/uihooks/log_misc_events.py">uihooks/log_misc_events.py</a>
 
 #### Category
 uihooks
@@ -2117,7 +2117,7 @@ uihooks
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/uihooks/prevent_jump.py">uihooks/prevent_jump.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/uihooks/prevent_jump.py">uihooks/prevent_jump.py</a>
 
 #### Category
 uihooks
@@ -2145,7 +2145,7 @@ uihooks
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/widgets/forms/askusingform.py">widgets/forms/askusingform.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/widgets/forms/askusingform.py">widgets/forms/askusingform.py</a>
 
 #### Category
 widgets
@@ -2175,7 +2175,7 @@ widgets
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/widgets/tabular_views/custom/choose.py">widgets/tabular_views/custom/choose.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/widgets/tabular_views/custom/choose.py">widgets/tabular_views/custom/choose.py</a>
 
 #### Category
 widgets
@@ -2216,7 +2216,7 @@ widgets
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/widgets/tabular_views/custom/choose_multi.py">widgets/tabular_views/custom/choose_multi.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/widgets/tabular_views/custom/choose_multi.py">widgets/tabular_views/custom/choose_multi.py</a>
 
 #### Category
 widgets
@@ -2246,7 +2246,7 @@ widgets
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/widgets/graphs/custom_graph_with_actions.py">widgets/graphs/custom_graph_with_actions.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/widgets/graphs/custom_graph_with_actions.py">widgets/graphs/custom_graph_with_actions.py</a>
 
 #### Category
 widgets
@@ -2289,7 +2289,7 @@ widgets
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/widgets/listings/custom_viewer.py">widgets/listings/custom_viewer.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/widgets/listings/custom_viewer.py">widgets/listings/custom_viewer.py</a>
 
 #### Category
 widgets
@@ -2330,7 +2330,7 @@ widgets
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/widgets/tabular_views/custom/func_chooser.py">widgets/tabular_views/custom/func_chooser.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/widgets/tabular_views/custom/func_chooser.py">widgets/tabular_views/custom/func_chooser.py</a>
 
 #### Category
 widgets
@@ -2363,7 +2363,7 @@ widgets
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/widgets/listings/save_and_restore_listing_pos.py">widgets/listings/save_and_restore_listing_pos.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/widgets/listings/save_and_restore_listing_pos.py">widgets/listings/save_and_restore_listing_pos.py</a>
 
 #### Category
 widgets
@@ -2403,7 +2403,7 @@ widgets
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/widgets/waitbox/show_and_hide_waitbox.py">widgets/waitbox/show_and_hide_waitbox.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/widgets/waitbox/show_and_hide_waitbox.py">widgets/waitbox/show_and_hide_waitbox.py</a>
 
 #### Category
 widgets
@@ -2436,7 +2436,7 @@ widgets
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/widgets/tabular_views/strings_window/show_selected_strings.py">widgets/tabular_views/strings_window/show_selected_strings.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/widgets/tabular_views/strings_window/show_selected_strings.py">widgets/tabular_views/strings_window/show_selected_strings.py</a>
 
 #### Category
 widgets
@@ -2476,7 +2476,7 @@ widgets
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/widgets/graphs/sync_two_graphs.py">widgets/graphs/sync_two_graphs.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/widgets/graphs/sync_two_graphs.py">widgets/graphs/sync_two_graphs.py</a>
 
 #### Category
 widgets
@@ -2517,7 +2517,7 @@ widgets
 <blockquote>
 
 #### Source code
-<a href="https://github.com/idapython/src/master/examples/widgets/idaview/wrap_idaview.py">widgets/idaview/wrap_idaview.py</a>
+<a href="https://github.com/idapython/src/blob/master/examples/widgets/idaview/wrap_idaview.py">widgets/idaview/wrap_idaview.py</a>
 
 #### Category
 widgets
