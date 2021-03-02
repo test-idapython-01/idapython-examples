@@ -1,9 +1,9 @@
-# IDAPython examples
-
 <!--
 [Switch to HTML](http://htmlpreview.github.io/?https://github.com/idapython/src/tree/m/examples/index.html)
 -->
 [Switch to HTML](http://htmlpreview.github.io/?https://github.com/test-idapython-01/idapython-examples/md-anchors/examples/index.html)
+
+# IDAPython examples
 
 <!--gen:group:category-->
 ## Category: <!--gen:category-->
