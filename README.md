@@ -2,7 +2,7 @@
 # Just a test
 
 If you are looking for the official IDAPython examples, they are
-[here](https://github.com/idapython/src "IDAPython examples").
+[here](https://github.com/idapython/src/tree/master/examples "IDAPython examples").
 
 # GitHub experiments, likely outdated material
 
